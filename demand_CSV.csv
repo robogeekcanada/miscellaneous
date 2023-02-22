@@ -1,379 +1,379 @@
-﻿Demand Location, Total Demand ,Production/Source Location,First Warehouse,Second Warehouse,Third Warehouse,Product Details
-"Y001 Brampton, ON DC"," 23,564,663 ","Y001 Brampton, ON DC",,,,"Brampton PET, Core Cans, BIB, 300ml, 250ml, Dasani"
-"Y001 Brampton, ON DC"," 734,805 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,,355ml Can Fresca and Diet A&W
-"Y001 Brampton, ON DC"," 33,868 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,,1L AHA
-"Y001 Brampton, ON DC"," 3,414 ","Y002 Calgary, AB DC",,,,10L BIB skus
-"Y001 Brampton, ON DC"," 12,622,135 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,"All Weston can SKUS - hotfill can, monster, non core SSD"
-"Y001 Brampton, ON DC"," 128,499 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,,,500ml PET small runners
-"Y001 Brampton, ON DC"," 1,883,011 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"Juice, PA, Glass"
-"Y001 Brampton, ON DC"," 726,501 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y001 Brampton, ON DC"," 547,957 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,Variety Packs
-"Y001 Brampton, ON DC"," 351,905 ",External Purchases,,,,"Smartwater, some BIB"
-"Y001 Brampton, ON DC"," 517,933 ",External Purchases,Y053 NFI Toronto Aux WH,,,"Some Smartwater, CorePower, Monster Imports"
-"Y002 Calgary, AB DC"," 7,090 ","Y001 Brampton, ON DC",,,,"10L BIB, 2L Kosher Coke"
-"Y002 Calgary, AB DC"," 198,462 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,"300ml, 250ml PET"
-"Y002 Calgary, AB DC"," 9,903,997 ","Y002 Calgary, AB DC",,,,
-"Y002 Calgary, AB DC"," 1,406,871 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,"Weston can SKUS - hotfill can, monster"
-"Y002 Calgary, AB DC"," 16,533 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,,,500ml PET small runners
-"Y002 Calgary, AB DC"," 1,414,016 ","Y045 Richmond, BC PC","Y044 Richmond, BC DC",,,"Monster, 222ml can"
-"Y002 Calgary, AB DC"," 622,433 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,"Y071 TCS Calgary, AB DC",,"Juice, PA, Glass"
-"Y002 Calgary, AB DC"," 301,491 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y002 Calgary, AB DC"," 183,288 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,Variety Packs
-"Y002 Calgary, AB DC"," 440,230 ",External Purchases,"Y071 TCS Calgary, AB DC",,,"Smartwater, Monster Imports"
-"Y002 Calgary, AB DC"," 44,843 ",External Purchases,Y053 NFI Toronto Aux WH,,,CorePower
-"Y002 Calgary, AB DC"," 10,204 ",External Purchases,,,,non KO BIB
-"Y004 Barrie, ON DC"," 4,181,713 ","Y001 Brampton, ON DC",,,," Brampton PET, Core Cans, BIB "
-"Y004 Barrie, ON DC"," 166,675 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,"300ml, 250ml, Dasani"
-"Y004 Barrie, ON DC"," 230,724 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,,355ml Can Fresca and Diet A&W
-"Y004 Barrie, ON DC"," 4,105 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,,1L AHA
-"Y004 Barrie, ON DC"," 3,183,908 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,"All Weston can SKUS - hotfill can, monster, non core SSD"
-"Y004 Barrie, ON DC"," 16,413 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,,,500ml PET small runners
-"Y004 Barrie, ON DC"," 234,856 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"Juice, PA, Glass"
-"Y004 Barrie, ON DC"," 147,913 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y004 Barrie, ON DC"," 87,479 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,Variety Packs
-"Y004 Barrie, ON DC"," 161,432 ",External Purchases,Y053 NFI Toronto Aux WH,,,"Smartwater, CorePower, Monster Imports"
-"Y005 Hamilton, ON DC"," 4,070,720 ","Y001 Brampton, ON DC",,,,"Brampton PET, Core Cans, BIB"
-"Y005 Hamilton, ON DC"," 193,379 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,"300ml, 250ml, Dasani"
-"Y005 Hamilton, ON DC"," 218,122 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,,355ml Can Fresca and Diet A&W
-"Y005 Hamilton, ON DC"," 4,282 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,,1L AHA
-"Y005 Hamilton, ON DC"," 2,978,476 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,"All Weston can SKUS - hotfill can, monster, non core SSD"
-"Y005 Hamilton, ON DC"," 12,962 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,,,500ml PET small runners
-"Y005 Hamilton, ON DC"," 245,302 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"Juice, PA, Glass"
-"Y005 Hamilton, ON DC"," 132,407 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y005 Hamilton, ON DC"," 99,679 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,Variety Packs
-"Y005 Hamilton, ON DC"," 186,813 ",External Purchases,Y053 NFI Toronto Aux WH,,,"Smartwater, CorePower, Monster Imports"
-"Y006 Kingston, ON DC"," 2,124,198 ","Y001 Brampton, ON DC",,,,"Brampton PET, Core Cans, BIB"
-"Y006 Kingston, ON DC"," 87,187 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,"300ml, 250ml, Dasani"
-"Y006 Kingston, ON DC"," 128,006 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,,355ml Can Fresca and Diet A&W
-"Y006 Kingston, ON DC"," 2,143 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,,1L AHA
-"Y006 Kingston, ON DC"," 1,609,146 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,"All Weston can SKUS - hotfill can, monster, non core SSD"
-"Y006 Kingston, ON DC"," 9,303 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,,,500ml PET small runners
-"Y006 Kingston, ON DC"," 130,209 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"Juice, PA, Glass"
-"Y006 Kingston, ON DC"," 76,821 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y006 Kingston, ON DC"," 24,379 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,Variety Packs
-"Y006 Kingston, ON DC"," 105,636 ",External Purchases,Y053 NFI Toronto Aux WH,,,"Smartwater, CorePower, Monster Imports"
-"Y007 London, ON DC"," 5,494,012 ","Y001 Brampton, ON DC",,,," Brampton PET, Core Cans, BIB "
-"Y007 London, ON DC"," 240,973 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,"300ml, 250ml, Dasani"
-"Y007 London, ON DC"," 277,775 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,,355ml Can Fresca and Diet A&W
-"Y007 London, ON DC"," 4,254 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,,1L AHA
-"Y007 London, ON DC"," 3,617,146 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,"All Weston can SKUS - hotfill can, monster, non core SSD"
-"Y007 London, ON DC"," 20,597 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,,,500ml PET small runners
-"Y007 London, ON DC"," 307,993 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"Juice, PA, Glass"
-"Y007 London, ON DC"," 160,297 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y007 London, ON DC"," 120,036 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,Variety Packs
-"Y007 London, ON DC"," 213,079 ",External Purchases,Y053 NFI Toronto Aux WH,,,"Smartwater, CorePower, Monster Imports"
-"Y008 Owen Sound, ON DB",,,,,,
-"Y009 Sault Ste Marie, ON DB",,,,,,
-"Y010 Sudbury, ON DC"," 1,236,619 ","Y001 Brampton, ON DC",,,,"Brampton PET, Core Cans, BIB"
-"Y010 Sudbury, ON DC"," 64,812 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,"300ml, 250ml, Dasani"
-"Y010 Sudbury, ON DC"," 102,921 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,,355ml Can Fresca and Diet A&W
-"Y010 Sudbury, ON DC"," 1,625 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,,1L AHA
-"Y010 Sudbury, ON DC"," 1,141,098 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,"All Weston can SKUS - hotfill can, monster, non core SSD"
-"Y010 Sudbury, ON DC"," 4,991 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,,,500ml PET small runners
-"Y010 Sudbury, ON DC"," 96,222 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"Juice, PA, Glass"
-"Y010 Sudbury, ON DC"," 46,701 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y010 Sudbury, ON DC"," 37,122 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,Variety Packs
-"Y010 Sudbury, ON DC"," 66,373 ",External Purchases,Y053 NFI Toronto Aux WH,,,"Smartwater, CorePower, Monster Imports"
-"Y011 Weston, ON DC"," 615,568 ","Y011 Weston, ON DC",,,,Pizza Pizza skus
-"Y011 Weston, ON DC", 184 ,"Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,"300ml, 250 ml PET"
-"Y012 Windsor, ON DB",,,,,,
-"Y013 Bathurst, NB DC",,,,,,
-"Y014 Edmundston, NB DB",,,,,,
-"Y015 Fredericton, NB DB",,,,,,
-"Y016 Moncton, NB DC"," 84,367 ","Y001 Brampton, ON DC",,,,"20L BIB, 1 Dasani sku"
-"Y016 Moncton, NB DC"," 346,801 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,"32 pack can, 300ml, 250ml, small runners 500ml & 710ml"
-"Y016 Moncton, NB DC"," 1,523 ","Y001 Brampton, ON DC","Y027 Fairway, QC AUX WH",,,10L BIB 2 skus
-"Y016 Moncton, NB DC"," 2,577 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,,1L AHA
-"Y016 Moncton, NB DC"," 1,031,736 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,"Unique Weston can SKUS - hotfill can, monster, 222ml"
-"Y016 Moncton, NB DC"," 3,072,415 ","Y028 Lachine, QC PC","Y027 Fairway, QC AUX WH",,,"CSD cans, PET, BIB"
-"Y016 Moncton, NB DC"," 224,345 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"Juice, PA, Glass"
-"Y016 Moncton, NB DC"," 71,880 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y016 Moncton, NB DC"," 68,532 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,Variety Packs
-"Y016 Moncton, NB DC"," 117,611 ",External Purchases,Y053 NFI Toronto Aux WH,,,"Smartwater, CorePower, Monster Imports"
-"Y017 Saint John, NB DB",,,,,,
-"Y018 Coldbrook, NS DB",,,,,,
-"Y019 Halifax, NS DC"," 43,764 ","Y001 Brampton, ON DC",,,,"20L BIB, 1 Dasani sku"
-"Y019 Halifax, NS DC"," 254,052 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,"32 pack can, 300ml, 250ml, small runners 500ml & 710ml"
-"Y019 Halifax, NS DC", 86 ,"Y001 Brampton, ON DC","Y027 Fairway, QC AUX WH",,,1 500ml PET sku (error?)
-"Y019 Halifax, NS DC"," 4,639 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,,1L AHA
-"Y019 Halifax, NS DC"," 1,167,482 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,"Unique Weston can SKUS - hotfill can, monster, 222ml"
-"Y019 Halifax, NS DC"," 1,303,366 ","Y028 Lachine, QC PC","Y027 Fairway, QC AUX WH",,,"CSD cans, PET, BIB"
-"Y019 Halifax, NS DC"," 178,491 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"Juice, PA, Glass"
-"Y019 Halifax, NS DC"," 91,651 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y019 Halifax, NS DC"," 50,538 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,Variety Packs
-"Y019 Halifax, NS DC"," 135,719 ",External Purchases,Y053 NFI Toronto Aux WH,,,"Smartwater, CorePower, Monster Imports"
-"Y020 Stellarton, NS DB",,,,,,
-"Y021 Sydney, NS DC"," 3,166 ","Y001 Brampton, ON DC","Y016 Moncton, NB DC",,,1 Dasani sku
-"Y021 Sydney, NS DC"," 20,328 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,"32 pack can, 300ml, 250ml, small runners 500ml & 710ml"
-"Y021 Sydney, NS DC", 244 ,"Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,"Y016 Moncton, NB DC",1L AHA
-"Y021 Sydney, NS DC"," 154,697 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,"Y016 Moncton, NB DC",,"Unique Weston can SKUS - hotfill can, monster, 222ml"
-"Y021 Sydney, NS DC"," 301,440 ","Y028 Lachine, QC PC","Y027 Fairway, QC AUX WH","Y016 Moncton, NB DC",,"CSD cans, PET, BIB"
-"Y021 Sydney, NS DC"," 34,417 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,"Y016 Moncton, NB DC",,"Juice, PA, Glass"
-"Y021 Sydney, NS DC"," 11,071 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,"Y016 Moncton, NB DC",,VW
-"Y021 Sydney, NS DC"," 5,847 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,"Y016 Moncton, NB DC",,Variety Packs
-"Y021 Sydney, NS DC"," 18,358 ",External Purchases,Y053 NFI Toronto Aux WH,"Y016 Moncton, NB DC",,"Smartwater, CorePower, Monster Imports"
-"Y022 Truro, NS DB",,,,,,
-"Y023 Yarmouth, NS DB",,,,,,
-"Y024 Ottawa, ON DC"," 3,727,841 ","Y001 Brampton, ON DC",,,,"Brampton PET, Core Cans, BIB"
-"Y024 Ottawa, ON DC"," 220,751 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,"300ml, 250ml, Dasani"
-"Y024 Ottawa, ON DC"," 225,617 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,,355ml Can Fresca and Diet A&W
-"Y024 Ottawa, ON DC"," 3,941 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,,1L AHA
-"Y024 Ottawa, ON DC"," 2,983,595 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,"All Weston can SKUS - hotfill can, monster, non core SSD"
-"Y024 Ottawa, ON DC"," 21,473 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,,,500ml PET small runners
-"Y024 Ottawa, ON DC"," 267,048 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"Juice, PA, Glass"
-"Y024 Ottawa, ON DC"," 134,319 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y024 Ottawa, ON DC"," 110,083 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,Variety Packs
-"Y024 Ottawa, ON DC"," 166,907 ",External Purchases,Y053 NFI Toronto Aux WH,,,"Smartwater, CorePower, Monster Imports"
-"Y025 Charlottetown, PE CD",,,,,,
-"Y026 Granby, QC DC"," 8,425 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,"Y027 Fairway, QC AUX WH",,some small run PET flavours
-"Y026 Granby, QC DC"," 134,915 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,"32 pack, dasani, some small run flavours in PET/can"
-"Y026 Granby, QC DC"," 1,591 ","Y002 Calgary, AB DC",Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,1L Aha
-"Y026 Granby, QC DC"," 670,455 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,Weston HF & Monster
-"Y026 Granby, QC DC"," 1,227,935 ","Y028 Lachine, QC PC","Y027 Fairway, QC AUX WH","Y029 L'Assomption, QC DC",,CSD cans & PET
-"Y026 Granby, QC DC"," 2,587 ","Y028 Lachine, QC PC","Y027 Fairway, QC AUX WH","Y029 L'Assomption, QC DC",,BIB & few small volume skus
-"Y026 Granby, QC DC"," 108,317 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,"Juice, PA, Glass"
-"Y026 Granby, QC DC"," 44,596 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,VW
-"Y026 Granby, QC DC"," 22,003 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,Variety Packs
-"Y026 Granby, QC DC"," 66,959 ",External Purchases,Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,"Smartwater, CorePower, Monster Imports"
-"Y027 Fairway, QC AUX WH",,,,,,
-"Y028 Lachine, QC PC"," 416,279 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,"32 pack can, Dasani, 250ml, 300ml, some small run flavours"
-"Y028 Lachine, QC PC"," 4,257 ","Y002 Calgary, AB DC",Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,1L Aha
-"Y028 Lachine, QC PC"," 1,776,184 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,Weston HF & Monster
-"Y028 Lachine, QC PC"," 3,859,233 ","Y028 Lachine, QC PC",,,,"CSD cans, & PET, BIB"
-"Y028 Lachine, QC PC"," 306,067 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,"Juice, PA, Glass"
-"Y028 Lachine, QC PC"," 156,468 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,VW
-"Y028 Lachine, QC PC"," 14,327 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,Variety Packs
-"Y028 Lachine, QC PC"," 199,264 ",External Purchases,Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,"Smartwater, CorePower, Monster Imports"
-"Y029 L'Assomption, QC DC"," 1,393,276 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,"32 pack can, Dasani, 250ml, 300ml, some small run flavours"
-"Y029 L'Assomption, QC DC"," 11,911 ","Y002 Calgary, AB DC",Y053 NFI Toronto Aux WH,,,1L Aha
-"Y029 L'Assomption, QC DC"," 3,972,093 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,Weston HF & Monster
-"Y029 L'Assomption, QC DC"," 9,974,211 ","Y028 Lachine, QC PC","Y027 Fairway, QC AUX WH",,,"CSD cans, & PET, BIB"
-"Y029 L'Assomption, QC DC"," 697,869 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"Juice, PA, Glass"
-"Y029 L'Assomption, QC DC"," 368,909 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y029 L'Assomption, QC DC"," 178,531 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,Variety Packs
-"Y029 L'Assomption, QC DC"," 287,586 ",External Purchases,Y053 NFI Toronto Aux WH,,,"Smartwater, CorePower, Monster Imports"
-"Y030 Outaouais, QC DC"," 124,910 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,"32 pack can, Dasani, 250ml, 300ml, some small run flavours"
-"Y030 Outaouais, QC DC", 932 ,"Y002 Calgary, AB DC",Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,1L Aha
-"Y030 Outaouais, QC DC"," 351,960 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,Weston HF & Monster
-"Y030 Outaouais, QC DC"," 1,093,412 ","Y028 Lachine, QC PC","Y027 Fairway, QC AUX WH","Y029 L'Assomption, QC DC",,"CSD cans, & PET, BIB"
-"Y030 Outaouais, QC DC"," 50,587 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,"Juice, PA, Glass"
-"Y030 Outaouais, QC DC"," 26,994 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,VW
-"Y030 Outaouais, QC DC"," 7,194 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,Variety Packs
-"Y030 Outaouais, QC DC"," 22,672 ",External Purchases,Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,"Smartwater, CorePower, Monster Imports"
-"Y031 Quebec City, QC DC"," 252,633 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,"32 pack can, Dasani, 250ml, 300ml, some small run flavours"
-"Y031 Quebec City, QC DC"," 5,464 ","Y002 Calgary, AB DC",Y053 NFI Toronto Aux WH,,,1L Aha
-"Y031 Quebec City, QC DC"," 1,498,115 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,Weston HF & Monster
-"Y031 Quebec City, QC DC"," 28,231 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,small run skus
-"Y031 Quebec City, QC DC"," 2,482,493 ","Y028 Lachine, QC PC","Y027 Fairway, QC AUX WH",,,"CSD cans, & PET, BIB"
-"Y031 Quebec City, QC DC"," 372,526 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"Juice, PA, Glass"
-"Y031 Quebec City, QC DC"," 2,500 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,small run skus
-"Y031 Quebec City, QC DC"," 147,666 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,VW
-"Y031 Quebec City, QC DC"," 39,974 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,Variety Packs
-"Y031 Quebec City, QC DC","-51,677 ",External Purchases,Y053 NFI Toronto Aux WH,"Y029 L'Assomption, QC DC",,"Smartwater, CorePower, Monster Imports"
-"Y032 Trois-Rivieres, QC Drop",,,,,,
-"Y033 Edmonton, AB DC"," 1,006 ","Y001 Brampton, ON DC","Y002 Calgary, AB DC",,,"10L BIB, 2L Kosher Coke"
-"Y033 Edmonton, AB DC"," 159,778 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,"300ml, 250ml PET"
-"Y033 Edmonton, AB DC"," 110,088 ","Y002 Calgary, AB DC",,,,BIB
-"Y033 Edmonton, AB DC"," 7,211,515 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",,,Calgary cans & PET
-"Y033 Edmonton, AB DC"," 1,187,292 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,"Weston can SKUS - hotfill can, monster"
-"Y033 Edmonton, AB DC"," 9,372 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,,,500ml PET small runners
-"Y033 Edmonton, AB DC"," 13,620 ","Y045 Richmond, BC PC","Y002 Calgary, AB DC",,,HFCS 20L BiB
-"Y033 Edmonton, AB DC"," 1,118,271 ","Y045 Richmond, BC PC","Y044 Richmond, BC DC","Y071 TCS Calgary, AB DC",,"Monster, 222ml can"
-"Y033 Edmonton, AB DC"," 402,609 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"Juice, PA, Glass"
-"Y033 Edmonton, AB DC"," 242,912 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y033 Edmonton, AB DC"," 146,490 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,Variety Packs
-"Y033 Edmonton, AB DC"," 356,550 ",External Purchases,,,,
-"Y034 Lethbridge, AB CD"," 4,819 ",,,,,
-"Y035 Castlegar, BC DC"," 5,470 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,"300ml, 250ml PET"
-"Y035 Castlegar, BC DC"," 238,647 ","Y002 Calgary, AB DC",,,,Calgary cans & PET
-"Y035 Castlegar, BC DC"," 63,308 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,"Weston can SKUS - hotfill can, monster"
-"Y035 Castlegar, BC DC", 329 ,"Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,500ml PET small runners
-"Y035 Castlegar, BC DC"," 46,433 ","Y045 Richmond, BC PC","Y044 Richmond, BC DC","Y071 TCS Calgary, AB DC","Y002 Calgary, AB DC","Monster, 222ml"
-"Y035 Castlegar, BC DC"," 13,485 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,"Juice, PA, Glass"
-"Y035 Castlegar, BC DC"," 13,242 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,VW
-"Y035 Castlegar, BC DC"," 2,304 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,Variety Packs
-"Y035 Castlegar, BC DC"," 1,824 ",External Purchases,"Y052 Saskatoon, SK DC","Y002 Calgary, AB DC",,Core Power
-"Y035 Castlegar, BC DC"," 14,724 ",External Purchases,"Y002 Calgary, AB DC",,,"Monster Import, Smartwater"
-"Y037 Coquitlam, BC DC"," 28,257 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,"300ml, 250ml PET"
-"Y037 Coquitlam, BC DC"," 122,813 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC","Y044 Richmond, BC DC",,"some can, 1L AHA, some 500ml, Dasani, some BIB"
-"Y037 Coquitlam, BC DC"," 233,029 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,Weston HF & some monster
-"Y037 Coquitlam, BC DC"," 9,128 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,500ml Aha + 2 other small skus
-"Y037 Coquitlam, BC DC"," 1,286,149 ","Y045 Richmond, BC PC","Y044 Richmond, BC DC",,,Core can & PET
-"Y037 Coquitlam, BC DC"," 205,656 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,"Juice, PA, Glass"
-"Y037 Coquitlam, BC DC"," 104,712 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,VW
-"Y037 Coquitlam, BC DC"," 6,443 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,Variety Packs
-"Y037 Coquitlam, BC DC"," 32,436 ",External Purchases,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,Core Power
-"Y037 Coquitlam, BC DC"," 81,048 ",External Purchases,,,, Smartwater
-"Y037 Coquitlam, BC DC"," 23,476 ",External Purchases,"Y071 TCS Calgary, AB DC","Y044 Richmond, BC DC",,Monster import
-"Y037 Coquitlam, BC DC"," 65,541 ",External Purchases,"Y044 Richmond, BC DC",,,Monster import + anncilliary
-"Y038 Cranbrook, BC CD", 677 ,,,,,
-"Y039 Peace Region, BC DB",,,,,,
-"Y040 Kamloops, BC DB"," 2,140 ",,,,,
-"Y041 Kelowna, BC DC"," 2,443 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,250ml PET
-"Y041 Kelowna, BC DC"," 50,708 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,"300ml PET, some 250ml PET"
-"Y041 Kelowna, BC DC"," 2,208,520 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",,,CSD Can & PET
-"Y041 Kelowna, BC DC"," 15,352 ","Y002 Calgary, AB DC",,,,BIB
-"Y041 Kelowna, BC DC"," 452,326 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,"Hotfill can, some monster, some CSD can"
-"Y041 Kelowna, BC DC"," 24,569 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,Small volume can
-"Y041 Kelowna, BC DC"," 1,324 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,500ml PET AHA
-"Y041 Kelowna, BC DC", 10 ,"Y045 Richmond, BC PC","Y044 Richmond, BC DC","Y002 Calgary, AB DC",,HFCS 20L BiB
-"Y041 Kelowna, BC DC"," 409,702 ","Y045 Richmond, BC PC","Y044 Richmond, BC DC",,,"222ml can, monster, some PET"
-"Y041 Kelowna, BC DC"," 9,839 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,small volume PA skus
-"Y041 Kelowna, BC DC"," 128,798 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"Juice, PA, Glass"
-"Y041 Kelowna, BC DC"," 1,914 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,"Y071 TCS Calgary, AB DC",,1 PA Sku (error)?
-"Y041 Kelowna, BC DC"," 97,550 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y041 Kelowna, BC DC"," 53,523 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,Variety Packs
-"Y041 Kelowna, BC DC"," 98,564 ",External Purchases,"Y044 Richmond, BC DC",,,"SW, some monster import"
-"Y041 Kelowna, BC DC"," 2,942 ",External Purchases,"Y002 Calgary, AB DC",,,1 monster import
-"Y041 Kelowna, BC DC"," 17,480 ",External Purchases,Y053 NFI Toronto Aux WH,,,"Core Power, 1 monster import"
-"Y041 Kelowna, BC DC"," 25,448 ",External Purchases,"Y071 TCS Calgary, AB DC",,,Some monster import
-"Y042 Nanaimo, BC DC"," 36,238 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,250ml & 300 ml PET
-"Y042 Nanaimo, BC DC"," 281,861 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC","Y044 Richmond, BC DC",,"Some can, 500ml PET, 1L Aha"
-"Y042 Nanaimo, BC DC"," 407,855 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,"Hotfill can, some monster, some CSD can"
-"Y042 Nanaimo, BC DC"," 3,035 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,500ml PET AHA & 2 small skus
-"Y042 Nanaimo, BC DC"," 1,781,302 ","Y045 Richmond, BC PC","Y044 Richmond, BC DC",,,"222ml can, monster, some PET"
-"Y042 Nanaimo, BC DC"," 113,674 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,"Juice, PA, Glass"
-"Y042 Nanaimo, BC DC"," 76,411 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,VW
-"Y042 Nanaimo, BC DC"," 50,205 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,Variety Packs
-"Y042 Nanaimo, BC DC"," 33,575 ",External Purchases,"Y044 Richmond, BC DC",,,"SW, some monster import"
-"Y042 Nanaimo, BC DC"," 31,702 ",External Purchases,"Y037 Coquitlam, BC DC","Y044 Richmond, BC DC",,"SW, some monster import"
-"Y042 Nanaimo, BC DC"," 13,318 ",External Purchases,Y053 NFI Toronto Aux WH,,,"Core Power, 1 monster import"
-"Y042 Nanaimo, BC DC"," 11,707 ",External Purchases,"Y071 TCS Calgary, AB DC",,,Some monster import
-"Y043 Prince George, BC DC"," 19,205 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,250ml & 300 ml PET
-"Y043 Prince George, BC DC"," 110,564 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC","Y044 Richmond, BC DC",,"Some can, 500ml PET, 1L Aha"
-"Y043 Prince George, BC DC"," 170,765 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,"Hotfill can, some monster, some CSD can"
-"Y043 Prince George, BC DC"," 1,515 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,500ml PET AHA & 2 small skus
-"Y043 Prince George, BC DC"," 772,746 ","Y045 Richmond, BC PC","Y044 Richmond, BC DC",,,"222ml can, monster, some PET"
-"Y043 Prince George, BC DC"," 59,423 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,"Juice, PA, Glass"
-"Y043 Prince George, BC DC"," 33,528 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,VW
-"Y043 Prince George, BC DC"," 20,090 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,Variety Packs
-"Y043 Prince George, BC DC"," 21,174 ",External Purchases,"Y044 Richmond, BC DC",,,"SW, some monster import"
-"Y043 Prince George, BC DC"," 17,812 ",External Purchases,"Y037 Coquitlam, BC DC","Y044 Richmond, BC DC",,"SW, some monster import"
-"Y043 Prince George, BC DC"," 5,354 ",External Purchases,Y053 NFI Toronto Aux WH,,,"Core Power, 1 monster import"
-"Y043 Prince George, BC DC"," 8,590 ",External Purchases,"Y071 TCS Calgary, AB DC",,,Some monster import
-"Y044 Richmond, BC DC"," 190,721 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,250ml & 300 ml PET
-"Y044 Richmond, BC DC"," 1,086,462 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC","Y044 Richmond, BC DC",,"Some can, 500ml PET, 1L Aha, some BIB"
-"Y044 Richmond, BC DC"," 1,117,610 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,"Hotfill can, some monster, some CSD can"
-"Y044 Richmond, BC DC"," 9,431 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,500ml PET AHA & 2 small skus
-"Y044 Richmond, BC DC"," 8,294,242 ","Y045 Richmond, BC PC","Y044 Richmond, BC DC",,,"most 355ml can, 222ml can, monster, most PET"
-"Y044 Richmond, BC DC"," 415,182 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,"Juice, PA, Glass"
-"Y044 Richmond, BC DC"," 222,825 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,VW
-"Y044 Richmond, BC DC"," 198,010 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,Variety Packs
-"Y044 Richmond, BC DC"," 68,473 ",External Purchases,,,,Monster import
-"Y044 Richmond, BC DC"," 127,298 ",External Purchases,"Y037 Coquitlam, BC DC",,,Smartwater
-"Y044 Richmond, BC DC"," 29,397 ",External Purchases,Y053 NFI Toronto Aux WH,,,Core Power
-"Y044 Richmond, BC DC"," 14,471 ",External Purchases,"Y071 TCS Calgary, AB DC",,,Some monster import
-"Y044 Richmond, BC DC", 688 ,External Purchases,"Y002 Calgary, AB DC",,,1 BIB
-"Y045 Richmond, BC PC",,,,,,
-"Y046 Terrace, BC DC"," 11,418 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,250ml & 300 ml PET
-"Y046 Terrace, BC DC"," 65,257 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC","Y044 Richmond, BC DC",,"Some can, 500ml PET, 1L Aha, some BIB"
-"Y046 Terrace, BC DC"," 86,024 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,"Hotfill can, some monster, some CSD can"
-"Y046 Terrace, BC DC", 886 ,"Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,500ml PET AHA & 2 small skus
-"Y046 Terrace, BC DC"," 506,257 ","Y045 Richmond, BC PC","Y044 Richmond, BC DC",,,"most 355ml can, 222ml can, monster, most PET"
-"Y046 Terrace, BC DC"," 47,270 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,"Juice, PA, Glass"
-"Y046 Terrace, BC DC"," 24,500 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,VW
-"Y046 Terrace, BC DC"," 3,982 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,Variety Packs
-"Y046 Terrace, BC DC"," 11,420 ",External Purchases,"Y044 Richmond, BC DC",,,Monster import
-"Y046 Terrace, BC DC"," 11,190 ",External Purchases,"Y037 Coquitlam, BC DC","Y044 Richmond, BC DC",,Smartwater
-"Y046 Terrace, BC DC"," 2,684 ",External Purchases,Y053 NFI Toronto Aux WH,,,Core Power
-"Y046 Terrace, BC DC"," 3,599 ",External Purchases,"Y071 TCS Calgary, AB DC",,,Some monster import
-"Y047 Victoria, BC DC"," 30,069 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,250ml & 300 ml PET
-"Y047 Victoria, BC DC"," 213,304 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC","Y044 Richmond, BC DC",,"Some can, 500ml PET, 1L Aha, some BIB"
-"Y047 Victoria, BC DC"," 281,697 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,"Hotfill can, some monster, some CSD can"
-"Y047 Victoria, BC DC"," 2,928 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,500ml PET AHA & 2 small skus
-"Y047 Victoria, BC DC"," 1,332,195 ","Y045 Richmond, BC PC","Y044 Richmond, BC DC",,,"most 355ml can, 222ml can, monster, most PET"
-"Y047 Victoria, BC DC"," 97,718 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,"Juice, PA, Glass"
-"Y047 Victoria, BC DC"," 63,919 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,VW
-"Y047 Victoria, BC DC"," 25,171 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,"Y044 Richmond, BC DC",,Variety Packs
-"Y047 Victoria, BC DC"," 27,808 ",External Purchases,"Y044 Richmond, BC DC",,,Monster import
-"Y047 Victoria, BC DC"," 27,821 ",External Purchases,"Y037 Coquitlam, BC DC","Y044 Richmond, BC DC",,Smartwater
-"Y047 Victoria, BC DC"," 18,077 ",External Purchases,Y053 NFI Toronto Aux WH,,,Core Power
-"Y047 Victoria, BC DC"," 8,663 ",External Purchases,"Y071 TCS Calgary, AB DC",,,Some monster import
-"Y048 Brandon, MB DC"," 5,436 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,Some 300ml PET
-"Y048 Brandon, MB DC"," 10,437 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,"Some 300ml PET, 250ml PET"
-"Y048 Brandon, MB DC"," 3,826 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",,,Some PET
-"Y048 Brandon, MB DC"," 779,677 ","Y002 Calgary, AB DC",,,,Calgary cans/BIB
-"Y048 Brandon, MB DC"," 87,371 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,"Weston can SKUS - hotfill can, monster"
-"Y048 Brandon, MB DC"," 27,199 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,"Some Weston can SKUS - hotfill can, monster"
-"Y048 Brandon, MB DC", 764 ,"Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,500ml PET small runners
-"Y048 Brandon, MB DC"," 93,491 ","Y045 Richmond, BC PC","Y044 Richmond, BC DC","Y071 TCS Calgary, AB DC","Y002 Calgary, AB DC","Monster, 222ml can"
-"Y048 Brandon, MB DC"," 1,882 ","Y045 Richmond, BC PC","Y044 Richmond, BC DC","Y071 TCS Calgary, AB DC",,1 222ml can sku?
-"Y048 Brandon, MB DC"," 34,887 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"Juice, PA, Glass"
-"Y048 Brandon, MB DC"," 11,322 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,small run PA SkU's
-"Y048 Brandon, MB DC"," 17,801 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y048 Brandon, MB DC"," 1,354 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,small run VW skus
-"Y048 Brandon, MB DC", 252 ,Y060 Alliance repack,Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,small run vP
-"Y048 Brandon, MB DC"," 6,165 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,VP skus
-"Y048 Brandon, MB DC", 104 ,External Purchases,"Y002 Calgary, AB DC",,,BIB juice
-"Y048 Brandon, MB DC"," 26,157 ",External Purchases,"Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",,"Smartwater, monster import, anc."
-"Y048 Brandon, MB DC"," 2,144 ",External Purchases,"Y002 Calgary, AB DC",Y053 NFI Toronto Aux WH,,CorePower
-"Y049 Winnipeg, MB DC"," 89,724 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,300ml/250ml PET
-"Y049 Winnipeg, MB DC"," 4,728,713 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",,,Core cans & PET
-"Y049 Winnipeg, MB DC"," 201,527 ","Y002 Calgary, AB DC",,,,BIB
-"Y049 Winnipeg, MB DC"," 1,112,555 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,"Weston can SKUS - hotfill can, monster"
-"Y049 Winnipeg, MB DC"," 5,044 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,500ml PET small runners
-"Y049 Winnipeg, MB DC"," 105,162 ","Y045 Richmond, BC PC","Y044 Richmond, BC DC","Y071 TCS Calgary, AB DC",,Some small run can & PET
-"Y049 Winnipeg, MB DC"," 271,663 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"Juice, PA, Glass"
-"Y049 Winnipeg, MB DC"," 1,883 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,small run PA SkU's
-"Y049 Winnipeg, MB DC"," 105,707 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y049 Winnipeg, MB DC"," 89,281 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,VP skus
-"Y049 Winnipeg, MB DC"," 4,270 ",External Purchases,"Y002 Calgary, AB DC",,,BIB juice
-"Y049 Winnipeg, MB DC"," 129,180 ",External Purchases,"Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",,"Smartwater, monster import, anc."
-"Y049 Winnipeg, MB DC"," 13,749 ",External Purchases,"Y002 Calgary, AB DC",Y053 NFI Toronto Aux WH,,CorePower
-"Y050 Lloydminster, SK CD",,,,,,
-"Y051 Regina, SK DC"," 34,725 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,300ml PET
-"Y051 Regina, SK DC"," 4,509 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,250ml PET
-"Y051 Regina, SK DC"," 1,919,773 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",,,Calgary cans/PET
-"Y051 Regina, SK DC"," 20,690 ","Y002 Calgary, AB DC",,,,BIB
-"Y051 Regina, SK DC"," 306,693 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,"Weston can SKUS - hotfill can, monster"
-"Y051 Regina, SK DC"," 2,837 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,,,500ml PET small runners
-"Y051 Regina, SK DC"," 255,090 ","Y045 Richmond, BC PC","Y044 Richmond, BC DC","Y071 TCS Calgary, AB DC",,"Monster, 222ml can"
-"Y051 Regina, SK DC"," 112,167 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"Juice, PA, Glass"
-"Y051 Regina, SK DC"," 55,745 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y051 Regina, SK DC"," 27,011 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,Variety Packs
-"Y051 Regina, SK DC"," 11,563 ",External Purchases,"Y002 Calgary, AB DC",Y053 NFI Toronto Aux WH,,"non KO Bib, corepower"
-"Y051 Regina, SK DC"," 83,855 ",External Purchases,"Y071 TCS Calgary, AB DC",,,"Smartwater, Monster Imports"
-"Y052 Saskatoon, SK DC"," 33,295 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,300ml PET
-"Y052 Saskatoon, SK DC"," 4,659 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,"Y002 Calgary, AB DC",,250ml PET
-"Y052 Saskatoon, SK DC"," 1,689,164 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",,,Calgary cans/PET
-"Y052 Saskatoon, SK DC"," 12,171 ","Y002 Calgary, AB DC",,,,BIB
-"Y052 Saskatoon, SK DC"," 281,651 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,"Weston can SKUS - hotfill can, monster"
-"Y052 Saskatoon, SK DC"," 2,575 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,,,500ml PET small runners
-"Y052 Saskatoon, SK DC"," 247,700 ","Y045 Richmond, BC PC","Y044 Richmond, BC DC","Y071 TCS Calgary, AB DC",,"Monster, 222ml can"
-"Y052 Saskatoon, SK DC"," 108,531 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"Juice, PA, Glass"
-"Y052 Saskatoon, SK DC"," 53,782 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y052 Saskatoon, SK DC"," 43,827 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,Variety Packs
-"Y052 Saskatoon, SK DC"," 8,969 ",External Purchases,"Y002 Calgary, AB DC",Y053 NFI Toronto Aux WH,,"non KO Bib, corepower"
-"Y052 Saskatoon, SK DC"," 73,570 ",External Purchases,"Y071 TCS Calgary, AB DC",,,"Smartwater, Monster Imports"
-"Y054 Thunder Bay, ON DC"," 483,746 ","Y001 Brampton, ON DC",,,,"Core can, PET, 300ml/250ml PET, BIB"
-"Y054 Thunder Bay, ON DC"," 49,607 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,"Y001 Brampton, ON DC","1L Aha, 355ml can fresca and diet aw"
-"Y054 Thunder Bay, ON DC"," 421,245 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,"Y001 Brampton, ON DC",,"Weston can SKUS - hotfill can, monster"
-"Y054 Thunder Bay, ON DC"," 3,029 ","Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,"Y001 Brampton, ON DC",,500ml PET small runners
-"Y054 Thunder Bay, ON DC"," 52,206 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,"Y001 Brampton, ON DC",,"Juice, PA, Glass"
-"Y054 Thunder Bay, ON DC"," 28,730 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,"Y001 Brampton, ON DC",,VW
-"Y054 Thunder Bay, ON DC"," 10,922 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,"Y001 Brampton, ON DC",,VP skus
-"Y054 Thunder Bay, ON DC"," 4,735 ",External Purchases,"Y001 Brampton, ON DC",,,1 smart water sku & anc
-"Y054 Thunder Bay, ON DC"," 20,426 ",External Purchases,Y053 NFI Toronto Aux WH,"Y001 Brampton, ON DC",,"Smartwater, monster import, Core Power"
-"Y055 St. Johns, NL DC"," 211,914 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,"32 pack can, some other can, PET"
-"Y055 St. Johns, NL DC"," 4,206 ","Y001 Brampton, ON DC","Y027 Fairway, QC AUX WH","Y029 L'Assomption, QC DC",,some BIB
-"Y055 St. Johns, NL DC"," 11,715 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,"Y027 Fairway, QC AUX WH",,some 500ml PET skus
-"Y055 St. Johns, NL DC"," 1,386 ","Y002 Calgary, AB DC","Y071 TCS Calgary, AB DC",Y053 NFI Toronto Aux WH,,1L AHA
-"Y055 St. Johns, NL DC"," 552,424 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,"Unique Weston can SKUS - hotfill can, monster, 222ml"
-"Y055 St. Johns, NL DC"," 6,284 ","Y028 Lachine, QC PC",,,,"1 sku, CD cran"
-"Y055 St. Johns, NL DC"," 2,030,748 ","Y028 Lachine, QC PC","Y027 Fairway, QC AUX WH",,,Core can & PET
-"Y055 St. Johns, NL DC"," 14,462 ","Y028 Lachine, QC PC","Y027 Fairway, QC AUX WH","Y029 L'Assomption, QC DC",,BIB
-"Y055 St. Johns, NL DC"," 144,119 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"HF Juice, PA"
-"Y055 St. Johns, NL DC"," 36,479 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y055 St. Johns, NL DC"," 52,554 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,Variety Packs
-"Y055 St. Johns, NL DC", 943 ,External Purchases,"Y029 L'Assomption, QC DC","Y027 Fairway, QC AUX WH","Y001 Brampton, ON DC",Anc
-"Y055 St. Johns, NL DC"," 46,841 ",External Purchases,Y057 Delta Beverages,,,"Smartwater, Monster Imports, CorePower"
-"Y071 TCS Calgary, AB DC"," 27,225 ","Y001 Brampton, ON DC",Y053 NFI Toronto Aux WH,,,"300ml, 250ml PET"
-"Y071 TCS Calgary, AB DC"," 2,900,455 ","Y002 Calgary, AB DC",,,,"Core can, PET"
-"Y071 TCS Calgary, AB DC"," 383,792 ","Y011 Weston, ON DC",Y053 NFI Toronto Aux WH,,,"Unique Weston can SKUS - hotfill can, monster,"
-"Y071 TCS Calgary, AB DC", 584 ,"Y028 Lachine, QC PC",Y053 NFI Toronto Aux WH,,,small 500ml PET
-"Y071 TCS Calgary, AB DC"," 467,067 ","Y045 Richmond, BC PC","Y044 Richmond, BC DC",,,"monster, 222ml, some other can"
-"Y071 TCS Calgary, AB DC"," 240,731 ",Y057 Delta Beverages ,Y053 NFI Toronto Aux WH,,,"HF Juice, PA"
-"Y071 TCS Calgary, AB DC"," 94,873 ",Y059 Joriki ,Y053 NFI Toronto Aux WH,,,VW
-"Y071 TCS Calgary, AB DC"," 67,040 ",Y060 Alliance repack,Y053 NFI Toronto Aux WH,,,Variety Packs
-"Y071 TCS Calgary, AB DC"," 2,137 ",External Purchases,Y053 NFI Toronto Aux WH,,,CorePower
-"Y071 TCS Calgary, AB DC"," 180,206 ",External Purchases,,,,"Smartwater, Monster Imports, Anc."
+﻿Demand Location,Deman Site, Total Demand ,Production/Source Location,Source Site,First Warehouse,First Stop,Second Warehouse,Second Stop,Third Warehouse,Third Stop,Product Details
+"Y001 Brampton, ON DC",Y001," 23,564,663 ","Y001 Brampton, ON DC",Y001,,,,,,,"Brampton PET, Core Cans, BIB, 300ml, 250ml, Dasani"
+"Y001 Brampton, ON DC",Y001," 734,805 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,355ml Can Fresca and Diet A&W
+"Y001 Brampton, ON DC",Y001," 33,868 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,1L AHA
+"Y001 Brampton, ON DC",Y001," 3,414 ","Y002 Calgary, AB DC",Y002,,,,,,,10L BIB skus
+"Y001 Brampton, ON DC",Y001," 12,622,135 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,"All Weston can SKUS - hotfill can, monster, non core SSD"
+"Y001 Brampton, ON DC",Y001," 128,499 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,,,,,500ml PET small runners
+"Y001 Brampton, ON DC",Y001," 1,883,011 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"Juice, PA, Glass"
+"Y001 Brampton, ON DC",Y001," 726,501 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y001 Brampton, ON DC",Y001," 547,957 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,Variety Packs
+"Y001 Brampton, ON DC",Y001," 351,905 ",External Purchases,Exte,,,,,,,"Smartwater, some BIB"
+"Y001 Brampton, ON DC",Y001," 517,933 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,,,,,"Some Smartwater, CorePower, Monster Imports"
+"Y002 Calgary, AB DC",Y002," 7,090 ","Y001 Brampton, ON DC",Y001,,,,,,,"10L BIB, 2L Kosher Coke"
+"Y002 Calgary, AB DC",Y002," 198,462 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,"300ml, 250ml PET"
+"Y002 Calgary, AB DC",Y002," 9,903,997 ","Y002 Calgary, AB DC",Y002,,,,,,,
+"Y002 Calgary, AB DC",Y002," 1,406,871 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,"Weston can SKUS - hotfill can, monster"
+"Y002 Calgary, AB DC",Y002," 16,533 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,,,,,500ml PET small runners
+"Y002 Calgary, AB DC",Y002," 1,414,016 ","Y045 Richmond, BC PC",Y045,"Y044 Richmond, BC DC",Y044,,,,,"Monster, 222ml can"
+"Y002 Calgary, AB DC",Y002," 622,433 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,"Y071 TCS Calgary, AB DC",Y071,,,"Juice, PA, Glass"
+"Y002 Calgary, AB DC",Y002," 301,491 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y002 Calgary, AB DC",Y002," 183,288 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,Variety Packs
+"Y002 Calgary, AB DC",Y002," 440,230 ",External Purchases,Exte,"Y071 TCS Calgary, AB DC",Y071,,,,,"Smartwater, Monster Imports"
+"Y002 Calgary, AB DC",Y002," 44,843 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,,,,,CorePower
+"Y002 Calgary, AB DC",Y002," 10,204 ",External Purchases,Exte,,,,,,,non KO BIB
+"Y004 Barrie, ON DC",Y004," 4,181,713 ","Y001 Brampton, ON DC",Y001,,,,,,," Brampton PET, Core Cans, BIB "
+"Y004 Barrie, ON DC",Y004," 166,675 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,"300ml, 250ml, Dasani"
+"Y004 Barrie, ON DC",Y004," 230,724 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,355ml Can Fresca and Diet A&W
+"Y004 Barrie, ON DC",Y004," 4,105 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,1L AHA
+"Y004 Barrie, ON DC",Y004," 3,183,908 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,"All Weston can SKUS - hotfill can, monster, non core SSD"
+"Y004 Barrie, ON DC",Y004," 16,413 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,,,,,500ml PET small runners
+"Y004 Barrie, ON DC",Y004," 234,856 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"Juice, PA, Glass"
+"Y004 Barrie, ON DC",Y004," 147,913 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y004 Barrie, ON DC",Y004," 87,479 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,Variety Packs
+"Y004 Barrie, ON DC",Y004," 161,432 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,,,,,"Smartwater, CorePower, Monster Imports"
+"Y005 Hamilton, ON DC",Y005," 4,070,720 ","Y001 Brampton, ON DC",Y001,,,,,,,"Brampton PET, Core Cans, BIB"
+"Y005 Hamilton, ON DC",Y005," 193,379 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,"300ml, 250ml, Dasani"
+"Y005 Hamilton, ON DC",Y005," 218,122 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,355ml Can Fresca and Diet A&W
+"Y005 Hamilton, ON DC",Y005," 4,282 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,1L AHA
+"Y005 Hamilton, ON DC",Y005," 2,978,476 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,"All Weston can SKUS - hotfill can, monster, non core SSD"
+"Y005 Hamilton, ON DC",Y005," 12,962 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,,,,,500ml PET small runners
+"Y005 Hamilton, ON DC",Y005," 245,302 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"Juice, PA, Glass"
+"Y005 Hamilton, ON DC",Y005," 132,407 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y005 Hamilton, ON DC",Y005," 99,679 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,Variety Packs
+"Y005 Hamilton, ON DC",Y005," 186,813 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,,,,,"Smartwater, CorePower, Monster Imports"
+"Y006 Kingston, ON DC",Y006," 2,124,198 ","Y001 Brampton, ON DC",Y001,,,,,,,"Brampton PET, Core Cans, BIB"
+"Y006 Kingston, ON DC",Y006," 87,187 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,"300ml, 250ml, Dasani"
+"Y006 Kingston, ON DC",Y006," 128,006 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,355ml Can Fresca and Diet A&W
+"Y006 Kingston, ON DC",Y006," 2,143 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,1L AHA
+"Y006 Kingston, ON DC",Y006," 1,609,146 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,"All Weston can SKUS - hotfill can, monster, non core SSD"
+"Y006 Kingston, ON DC",Y006," 9,303 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,,,,,500ml PET small runners
+"Y006 Kingston, ON DC",Y006," 130,209 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"Juice, PA, Glass"
+"Y006 Kingston, ON DC",Y006," 76,821 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y006 Kingston, ON DC",Y006," 24,379 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,Variety Packs
+"Y006 Kingston, ON DC",Y006," 105,636 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,,,,,"Smartwater, CorePower, Monster Imports"
+"Y007 London, ON DC",Y007," 5,494,012 ","Y001 Brampton, ON DC",Y001,,,,,,," Brampton PET, Core Cans, BIB "
+"Y007 London, ON DC",Y007," 240,973 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,"300ml, 250ml, Dasani"
+"Y007 London, ON DC",Y007," 277,775 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,355ml Can Fresca and Diet A&W
+"Y007 London, ON DC",Y007," 4,254 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,1L AHA
+"Y007 London, ON DC",Y007," 3,617,146 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,"All Weston can SKUS - hotfill can, monster, non core SSD"
+"Y007 London, ON DC",Y007," 20,597 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,,,,,500ml PET small runners
+"Y007 London, ON DC",Y007," 307,993 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"Juice, PA, Glass"
+"Y007 London, ON DC",Y007," 160,297 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y007 London, ON DC",Y007," 120,036 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,Variety Packs
+"Y007 London, ON DC",Y007," 213,079 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,,,,,"Smartwater, CorePower, Monster Imports"
+"Y008 Owen Sound, ON DB",Y008,,,,,,,,,,
+"Y009 Sault Ste Marie, ON DB",Y009,,,,,,,,,,
+"Y010 Sudbury, ON DC",Y010," 1,236,619 ","Y001 Brampton, ON DC",Y001,,,,,,,"Brampton PET, Core Cans, BIB"
+"Y010 Sudbury, ON DC",Y010," 64,812 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,"300ml, 250ml, Dasani"
+"Y010 Sudbury, ON DC",Y010," 102,921 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,355ml Can Fresca and Diet A&W
+"Y010 Sudbury, ON DC",Y010," 1,625 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,1L AHA
+"Y010 Sudbury, ON DC",Y010," 1,141,098 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,"All Weston can SKUS - hotfill can, monster, non core SSD"
+"Y010 Sudbury, ON DC",Y010," 4,991 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,,,,,500ml PET small runners
+"Y010 Sudbury, ON DC",Y010," 96,222 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"Juice, PA, Glass"
+"Y010 Sudbury, ON DC",Y010," 46,701 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y010 Sudbury, ON DC",Y010," 37,122 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,Variety Packs
+"Y010 Sudbury, ON DC",Y010," 66,373 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,,,,,"Smartwater, CorePower, Monster Imports"
+"Y011 Weston, ON DC",Y011," 615,568 ","Y011 Weston, ON DC",Y011,,,,,,,Pizza Pizza skus
+"Y011 Weston, ON DC",Y011, 184 ,"Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,"300ml, 250 ml PET"
+"Y012 Windsor, ON DB",Y012,,,,,,,,,,
+"Y013 Bathurst, NB DC",Y013,,,,,,,,,,
+"Y014 Edmundston, NB DB",Y014,,,,,,,,,,
+"Y015 Fredericton, NB DB",Y015,,,,,,,,,,
+"Y016 Moncton, NB DC",Y016," 84,367 ","Y001 Brampton, ON DC",Y001,,,,,,,"20L BIB, 1 Dasani sku"
+"Y016 Moncton, NB DC",Y016," 346,801 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,"32 pack can, 300ml, 250ml, small runners 500ml & 710ml"
+"Y016 Moncton, NB DC",Y016," 1,523 ","Y001 Brampton, ON DC",Y001,"Y027 Fairway, QC AUX WH",Y027,,,,,10L BIB 2 skus
+"Y016 Moncton, NB DC",Y016," 2,577 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,1L AHA
+"Y016 Moncton, NB DC",Y016," 1,031,736 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,"Unique Weston can SKUS - hotfill can, monster, 222ml"
+"Y016 Moncton, NB DC",Y016," 3,072,415 ","Y028 Lachine, QC PC",Y028,"Y027 Fairway, QC AUX WH",Y027,,,,,"CSD cans, PET, BIB"
+"Y016 Moncton, NB DC",Y016," 224,345 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"Juice, PA, Glass"
+"Y016 Moncton, NB DC",Y016," 71,880 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y016 Moncton, NB DC",Y016," 68,532 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,Variety Packs
+"Y016 Moncton, NB DC",Y016," 117,611 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,,,,,"Smartwater, CorePower, Monster Imports"
+"Y017 Saint John, NB DB",Y017,,,,,,,,,,
+"Y018 Coldbrook, NS DB",Y018,,,,,,,,,,
+"Y019 Halifax, NS DC",Y019," 43,764 ","Y001 Brampton, ON DC",Y001,,,,,,,"20L BIB, 1 Dasani sku"
+"Y019 Halifax, NS DC",Y019," 254,052 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,"32 pack can, 300ml, 250ml, small runners 500ml & 710ml"
+"Y019 Halifax, NS DC",Y019, 86 ,"Y001 Brampton, ON DC",Y001,"Y027 Fairway, QC AUX WH",Y027,,,,,1 500ml PET sku (error?)
+"Y019 Halifax, NS DC",Y019," 4,639 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,1L AHA
+"Y019 Halifax, NS DC",Y019," 1,167,482 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,"Unique Weston can SKUS - hotfill can, monster, 222ml"
+"Y019 Halifax, NS DC",Y019," 1,303,366 ","Y028 Lachine, QC PC",Y028,"Y027 Fairway, QC AUX WH",Y027,,,,,"CSD cans, PET, BIB"
+"Y019 Halifax, NS DC",Y019," 178,491 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"Juice, PA, Glass"
+"Y019 Halifax, NS DC",Y019," 91,651 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y019 Halifax, NS DC",Y019," 50,538 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,Variety Packs
+"Y019 Halifax, NS DC",Y019," 135,719 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,,,,,"Smartwater, CorePower, Monster Imports"
+"Y020 Stellarton, NS DB",Y020,,,,,,,,,,
+"Y021 Sydney, NS DC",Y021," 3,166 ","Y001 Brampton, ON DC",Y001,"Y016 Moncton, NB DC",Y016,,,,,1 Dasani sku
+"Y021 Sydney, NS DC",Y021," 20,328 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,"32 pack can, 300ml, 250ml, small runners 500ml & 710ml"
+"Y021 Sydney, NS DC",Y021, 244 ,"Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,"Y016 Moncton, NB DC",Y016,1L AHA
+"Y021 Sydney, NS DC",Y021," 154,697 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,"Y016 Moncton, NB DC",Y016,,,"Unique Weston can SKUS - hotfill can, monster, 222ml"
+"Y021 Sydney, NS DC",Y021," 301,440 ","Y028 Lachine, QC PC",Y028,"Y027 Fairway, QC AUX WH",Y027,"Y016 Moncton, NB DC",Y016,,,"CSD cans, PET, BIB"
+"Y021 Sydney, NS DC",Y021," 34,417 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,"Y016 Moncton, NB DC",Y016,,,"Juice, PA, Glass"
+"Y021 Sydney, NS DC",Y021," 11,071 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,"Y016 Moncton, NB DC",Y016,,,VW
+"Y021 Sydney, NS DC",Y021," 5,847 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,"Y016 Moncton, NB DC",Y016,,,Variety Packs
+"Y021 Sydney, NS DC",Y021," 18,358 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,"Y016 Moncton, NB DC",Y016,,,"Smartwater, CorePower, Monster Imports"
+"Y022 Truro, NS DB",Y022,,,,,,,,,,
+"Y023 Yarmouth, NS DB",Y023,,,,,,,,,,
+"Y024 Ottawa, ON DC",Y024," 3,727,841 ","Y001 Brampton, ON DC",Y001,,,,,,,"Brampton PET, Core Cans, BIB"
+"Y024 Ottawa, ON DC",Y024," 220,751 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,"300ml, 250ml, Dasani"
+"Y024 Ottawa, ON DC",Y024," 225,617 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,355ml Can Fresca and Diet A&W
+"Y024 Ottawa, ON DC",Y024," 3,941 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,1L AHA
+"Y024 Ottawa, ON DC",Y024," 2,983,595 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,"All Weston can SKUS - hotfill can, monster, non core SSD"
+"Y024 Ottawa, ON DC",Y024," 21,473 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,,,,,500ml PET small runners
+"Y024 Ottawa, ON DC",Y024," 267,048 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"Juice, PA, Glass"
+"Y024 Ottawa, ON DC",Y024," 134,319 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y024 Ottawa, ON DC",Y024," 110,083 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,Variety Packs
+"Y024 Ottawa, ON DC",Y024," 166,907 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,,,,,"Smartwater, CorePower, Monster Imports"
+"Y025 Charlottetown, PE CD",Y025,,,,,,,,,,
+"Y026 Granby, QC DC",Y026," 8,425 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,"Y027 Fairway, QC AUX WH",Y027,,,some small run PET flavours
+"Y026 Granby, QC DC",Y026," 134,915 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,"32 pack, dasani, some small run flavours in PET/can"
+"Y026 Granby, QC DC",Y026," 1,591 ","Y002 Calgary, AB DC",Y002,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,1L Aha
+"Y026 Granby, QC DC",Y026," 670,455 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,Weston HF & Monster
+"Y026 Granby, QC DC",Y026," 1,227,935 ","Y028 Lachine, QC PC",Y028,"Y027 Fairway, QC AUX WH",Y027,"Y029 L'Assomption, QC DC",Y029,,,CSD cans & PET
+"Y026 Granby, QC DC",Y026," 2,587 ","Y028 Lachine, QC PC",Y028,"Y027 Fairway, QC AUX WH",Y027,"Y029 L'Assomption, QC DC",Y029,,,BIB & few small volume skus
+"Y026 Granby, QC DC",Y026," 108,317 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,"Juice, PA, Glass"
+"Y026 Granby, QC DC",Y026," 44,596 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,VW
+"Y026 Granby, QC DC",Y026," 22,003 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,Variety Packs
+"Y026 Granby, QC DC",Y026," 66,959 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,"Smartwater, CorePower, Monster Imports"
+"Y027 Fairway, QC AUX WH",Y027,,,,,,,,,,
+"Y028 Lachine, QC PC",Y028," 416,279 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,"32 pack can, Dasani, 250ml, 300ml, some small run flavours"
+"Y028 Lachine, QC PC",Y028," 4,257 ","Y002 Calgary, AB DC",Y002,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,1L Aha
+"Y028 Lachine, QC PC",Y028," 1,776,184 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,Weston HF & Monster
+"Y028 Lachine, QC PC",Y028," 3,859,233 ","Y028 Lachine, QC PC",Y028,,,,,,,"CSD cans, & PET, BIB"
+"Y028 Lachine, QC PC",Y028," 306,067 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,"Juice, PA, Glass"
+"Y028 Lachine, QC PC",Y028," 156,468 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,VW
+"Y028 Lachine, QC PC",Y028," 14,327 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,Variety Packs
+"Y028 Lachine, QC PC",Y028," 199,264 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,"Smartwater, CorePower, Monster Imports"
+"Y029 L'Assomption, QC DC",Y029," 1,393,276 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,"32 pack can, Dasani, 250ml, 300ml, some small run flavours"
+"Y029 L'Assomption, QC DC",Y029," 11,911 ","Y002 Calgary, AB DC",Y002,Y053 NFI Toronto Aux WH,Y053,,,,,1L Aha
+"Y029 L'Assomption, QC DC",Y029," 3,972,093 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,Weston HF & Monster
+"Y029 L'Assomption, QC DC",Y029," 9,974,211 ","Y028 Lachine, QC PC",Y028,"Y027 Fairway, QC AUX WH",Y027,,,,,"CSD cans, & PET, BIB"
+"Y029 L'Assomption, QC DC",Y029," 697,869 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"Juice, PA, Glass"
+"Y029 L'Assomption, QC DC",Y029," 368,909 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y029 L'Assomption, QC DC",Y029," 178,531 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,Variety Packs
+"Y029 L'Assomption, QC DC",Y029," 287,586 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,,,,,"Smartwater, CorePower, Monster Imports"
+"Y030 Outaouais, QC DC",Y030," 124,910 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,"32 pack can, Dasani, 250ml, 300ml, some small run flavours"
+"Y030 Outaouais, QC DC",Y030, 932 ,"Y002 Calgary, AB DC",Y002,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,1L Aha
+"Y030 Outaouais, QC DC",Y030," 351,960 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,Weston HF & Monster
+"Y030 Outaouais, QC DC",Y030," 1,093,412 ","Y028 Lachine, QC PC",Y028,"Y027 Fairway, QC AUX WH",Y027,"Y029 L'Assomption, QC DC",Y029,,,"CSD cans, & PET, BIB"
+"Y030 Outaouais, QC DC",Y030," 50,587 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,"Juice, PA, Glass"
+"Y030 Outaouais, QC DC",Y030," 26,994 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,VW
+"Y030 Outaouais, QC DC",Y030," 7,194 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,Variety Packs
+"Y030 Outaouais, QC DC",Y030," 22,672 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,"Smartwater, CorePower, Monster Imports"
+"Y031 Quebec City, QC DC",Y031," 252,633 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,"32 pack can, Dasani, 250ml, 300ml, some small run flavours"
+"Y031 Quebec City, QC DC",Y031," 5,464 ","Y002 Calgary, AB DC",Y002,Y053 NFI Toronto Aux WH,Y053,,,,,1L Aha
+"Y031 Quebec City, QC DC",Y031," 1,498,115 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,Weston HF & Monster
+"Y031 Quebec City, QC DC",Y031," 28,231 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,small run skus
+"Y031 Quebec City, QC DC",Y031," 2,482,493 ","Y028 Lachine, QC PC",Y028,"Y027 Fairway, QC AUX WH",Y027,,,,,"CSD cans, & PET, BIB"
+"Y031 Quebec City, QC DC",Y031," 372,526 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"Juice, PA, Glass"
+"Y031 Quebec City, QC DC",Y031," 2,500 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,small run skus
+"Y031 Quebec City, QC DC",Y031," 147,666 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,VW
+"Y031 Quebec City, QC DC",Y031," 39,974 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,Variety Packs
+"Y031 Quebec City, QC DC",Y031,"-51,677 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,"Y029 L'Assomption, QC DC",Y029,,,"Smartwater, CorePower, Monster Imports"
+"Y032 Trois-Rivieres, QC Drop",Y032,,,,,,,,,,
+"Y033 Edmonton, AB DC",Y033," 1,006 ","Y001 Brampton, ON DC",Y001,"Y002 Calgary, AB DC",Y002,,,,,"10L BIB, 2L Kosher Coke"
+"Y033 Edmonton, AB DC",Y033," 159,778 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,"300ml, 250ml PET"
+"Y033 Edmonton, AB DC",Y033," 110,088 ","Y002 Calgary, AB DC",Y002,,,,,,,BIB
+"Y033 Edmonton, AB DC",Y033," 7,211,515 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,,,,,Calgary cans & PET
+"Y033 Edmonton, AB DC",Y033," 1,187,292 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,"Weston can SKUS - hotfill can, monster"
+"Y033 Edmonton, AB DC",Y033," 9,372 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,,,,,500ml PET small runners
+"Y033 Edmonton, AB DC",Y033," 13,620 ","Y045 Richmond, BC PC",Y045,"Y002 Calgary, AB DC",Y002,,,,,HFCS 20L BiB
+"Y033 Edmonton, AB DC",Y033," 1,118,271 ","Y045 Richmond, BC PC",Y045,"Y044 Richmond, BC DC",Y044,"Y071 TCS Calgary, AB DC",Y071,,,"Monster, 222ml can"
+"Y033 Edmonton, AB DC",Y033," 402,609 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"Juice, PA, Glass"
+"Y033 Edmonton, AB DC",Y033," 242,912 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y033 Edmonton, AB DC",Y033," 146,490 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,Variety Packs
+"Y033 Edmonton, AB DC",Y033," 356,550 ",External Purchases,Exte,,,,,,,
+"Y034 Lethbridge, AB CD",Y034," 4,819 ",,,,,,,,,
+"Y035 Castlegar, BC DC",Y035," 5,470 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,"300ml, 250ml PET"
+"Y035 Castlegar, BC DC",Y035," 238,647 ","Y002 Calgary, AB DC",Y002,,,,,,,Calgary cans & PET
+"Y035 Castlegar, BC DC",Y035," 63,308 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,"Weston can SKUS - hotfill can, monster"
+"Y035 Castlegar, BC DC",Y035, 329 ,"Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,500ml PET small runners
+"Y035 Castlegar, BC DC",Y035," 46,433 ","Y045 Richmond, BC PC",Y045,"Y044 Richmond, BC DC",Y044,"Y071 TCS Calgary, AB DC",Y071,"Y002 Calgary, AB DC",Y002,"Monster, 222ml"
+"Y035 Castlegar, BC DC",Y035," 13,485 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,"Juice, PA, Glass"
+"Y035 Castlegar, BC DC",Y035," 13,242 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,VW
+"Y035 Castlegar, BC DC",Y035," 2,304 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,Variety Packs
+"Y035 Castlegar, BC DC",Y035," 1,824 ",External Purchases,Exte,"Y052 Saskatoon, SK DC",Y052,"Y002 Calgary, AB DC",Y002,,,Core Power
+"Y035 Castlegar, BC DC",Y035," 14,724 ",External Purchases,Exte,"Y002 Calgary, AB DC",Y002,,,,,"Monster Import, Smartwater"
+"Y037 Coquitlam, BC DC",Y037," 28,257 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,"300ml, 250ml PET"
+"Y037 Coquitlam, BC DC",Y037," 122,813 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,"Y044 Richmond, BC DC",Y044,,,"some can, 1L AHA, some 500ml, Dasani, some BIB"
+"Y037 Coquitlam, BC DC",Y037," 233,029 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,Weston HF & some monster
+"Y037 Coquitlam, BC DC",Y037," 9,128 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,500ml Aha + 2 other small skus
+"Y037 Coquitlam, BC DC",Y037," 1,286,149 ","Y045 Richmond, BC PC",Y045,"Y044 Richmond, BC DC",Y044,,,,,Core can & PET
+"Y037 Coquitlam, BC DC",Y037," 205,656 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,"Juice, PA, Glass"
+"Y037 Coquitlam, BC DC",Y037," 104,712 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,VW
+"Y037 Coquitlam, BC DC",Y037," 6,443 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,Variety Packs
+"Y037 Coquitlam, BC DC",Y037," 32,436 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,Core Power
+"Y037 Coquitlam, BC DC",Y037," 81,048 ",External Purchases,Exte,,,,,,, Smartwater
+"Y037 Coquitlam, BC DC",Y037," 23,476 ",External Purchases,Exte,"Y071 TCS Calgary, AB DC",Y071,"Y044 Richmond, BC DC",Y044,,,Monster import
+"Y037 Coquitlam, BC DC",Y037," 65,541 ",External Purchases,Exte,"Y044 Richmond, BC DC",Y044,,,,,Monster import + anncilliary
+"Y038 Cranbrook, BC CD",Y038, 677 ,,,,,,,,,
+"Y039 Peace Region, BC DB",Y039,,,,,,,,,,
+"Y040 Kamloops, BC DB",Y040," 2,140 ",,,,,,,,,
+"Y041 Kelowna, BC DC",Y041," 2,443 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,250ml PET
+"Y041 Kelowna, BC DC",Y041," 50,708 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,"300ml PET, some 250ml PET"
+"Y041 Kelowna, BC DC",Y041," 2,208,520 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,,,,,CSD Can & PET
+"Y041 Kelowna, BC DC",Y041," 15,352 ","Y002 Calgary, AB DC",Y002,,,,,,,BIB
+"Y041 Kelowna, BC DC",Y041," 452,326 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,"Hotfill can, some monster, some CSD can"
+"Y041 Kelowna, BC DC",Y041," 24,569 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,Small volume can
+"Y041 Kelowna, BC DC",Y041," 1,324 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,500ml PET AHA
+"Y041 Kelowna, BC DC",Y041, 10 ,"Y045 Richmond, BC PC",Y045,"Y044 Richmond, BC DC",Y044,"Y002 Calgary, AB DC",Y002,,,HFCS 20L BiB
+"Y041 Kelowna, BC DC",Y041," 409,702 ","Y045 Richmond, BC PC",Y045,"Y044 Richmond, BC DC",Y044,,,,,"222ml can, monster, some PET"
+"Y041 Kelowna, BC DC",Y041," 9,839 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,small volume PA skus
+"Y041 Kelowna, BC DC",Y041," 128,798 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"Juice, PA, Glass"
+"Y041 Kelowna, BC DC",Y041," 1,914 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,"Y071 TCS Calgary, AB DC",Y071,,,1 PA Sku (error)?
+"Y041 Kelowna, BC DC",Y041," 97,550 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y041 Kelowna, BC DC",Y041," 53,523 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,Variety Packs
+"Y041 Kelowna, BC DC",Y041," 98,564 ",External Purchases,Exte,"Y044 Richmond, BC DC",Y044,,,,,"SW, some monster import"
+"Y041 Kelowna, BC DC",Y041," 2,942 ",External Purchases,Exte,"Y002 Calgary, AB DC",Y002,,,,,1 monster import
+"Y041 Kelowna, BC DC",Y041," 17,480 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,,,,,"Core Power, 1 monster import"
+"Y041 Kelowna, BC DC",Y041," 25,448 ",External Purchases,Exte,"Y071 TCS Calgary, AB DC",Y071,,,,,Some monster import
+"Y042 Nanaimo, BC DC",Y042," 36,238 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,250ml & 300 ml PET
+"Y042 Nanaimo, BC DC",Y042," 281,861 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,"Y044 Richmond, BC DC",Y044,,,"Some can, 500ml PET, 1L Aha"
+"Y042 Nanaimo, BC DC",Y042," 407,855 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,"Hotfill can, some monster, some CSD can"
+"Y042 Nanaimo, BC DC",Y042," 3,035 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,500ml PET AHA & 2 small skus
+"Y042 Nanaimo, BC DC",Y042," 1,781,302 ","Y045 Richmond, BC PC",Y045,"Y044 Richmond, BC DC",Y044,,,,,"222ml can, monster, some PET"
+"Y042 Nanaimo, BC DC",Y042," 113,674 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,"Juice, PA, Glass"
+"Y042 Nanaimo, BC DC",Y042," 76,411 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,VW
+"Y042 Nanaimo, BC DC",Y042," 50,205 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,Variety Packs
+"Y042 Nanaimo, BC DC",Y042," 33,575 ",External Purchases,Exte,"Y044 Richmond, BC DC",Y044,,,,,"SW, some monster import"
+"Y042 Nanaimo, BC DC",Y042," 31,702 ",External Purchases,Exte,"Y037 Coquitlam, BC DC",Y037,"Y044 Richmond, BC DC",Y044,,,"SW, some monster import"
+"Y042 Nanaimo, BC DC",Y042," 13,318 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,,,,,"Core Power, 1 monster import"
+"Y042 Nanaimo, BC DC",Y042," 11,707 ",External Purchases,Exte,"Y071 TCS Calgary, AB DC",Y071,,,,,Some monster import
+"Y043 Prince George, BC DC",Y043," 19,205 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,250ml & 300 ml PET
+"Y043 Prince George, BC DC",Y043," 110,564 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,"Y044 Richmond, BC DC",Y044,,,"Some can, 500ml PET, 1L Aha"
+"Y043 Prince George, BC DC",Y043," 170,765 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,"Hotfill can, some monster, some CSD can"
+"Y043 Prince George, BC DC",Y043," 1,515 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,500ml PET AHA & 2 small skus
+"Y043 Prince George, BC DC",Y043," 772,746 ","Y045 Richmond, BC PC",Y045,"Y044 Richmond, BC DC",Y044,,,,,"222ml can, monster, some PET"
+"Y043 Prince George, BC DC",Y043," 59,423 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,"Juice, PA, Glass"
+"Y043 Prince George, BC DC",Y043," 33,528 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,VW
+"Y043 Prince George, BC DC",Y043," 20,090 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,Variety Packs
+"Y043 Prince George, BC DC",Y043," 21,174 ",External Purchases,Exte,"Y044 Richmond, BC DC",Y044,,,,,"SW, some monster import"
+"Y043 Prince George, BC DC",Y043," 17,812 ",External Purchases,Exte,"Y037 Coquitlam, BC DC",Y037,"Y044 Richmond, BC DC",Y044,,,"SW, some monster import"
+"Y043 Prince George, BC DC",Y043," 5,354 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,,,,,"Core Power, 1 monster import"
+"Y043 Prince George, BC DC",Y043," 8,590 ",External Purchases,Exte,"Y071 TCS Calgary, AB DC",Y071,,,,,Some monster import
+"Y044 Richmond, BC DC",Y044," 190,721 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,250ml & 300 ml PET
+"Y044 Richmond, BC DC",Y044," 1,086,462 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,"Y044 Richmond, BC DC",Y044,,,"Some can, 500ml PET, 1L Aha, some BIB"
+"Y044 Richmond, BC DC",Y044," 1,117,610 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,"Hotfill can, some monster, some CSD can"
+"Y044 Richmond, BC DC",Y044," 9,431 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,500ml PET AHA & 2 small skus
+"Y044 Richmond, BC DC",Y044," 8,294,242 ","Y045 Richmond, BC PC",Y045,"Y044 Richmond, BC DC",Y044,,,,,"most 355ml can, 222ml can, monster, most PET"
+"Y044 Richmond, BC DC",Y044," 415,182 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,"Juice, PA, Glass"
+"Y044 Richmond, BC DC",Y044," 222,825 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,VW
+"Y044 Richmond, BC DC",Y044," 198,010 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,Variety Packs
+"Y044 Richmond, BC DC",Y044," 68,473 ",External Purchases,Exte,,,,,,,Monster import
+"Y044 Richmond, BC DC",Y044," 127,298 ",External Purchases,Exte,"Y037 Coquitlam, BC DC",Y037,,,,,Smartwater
+"Y044 Richmond, BC DC",Y044," 29,397 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,,,,,Core Power
+"Y044 Richmond, BC DC",Y044," 14,471 ",External Purchases,Exte,"Y071 TCS Calgary, AB DC",Y071,,,,,Some monster import
+"Y044 Richmond, BC DC",Y044, 688 ,External Purchases,Exte,"Y002 Calgary, AB DC",Y002,,,,,1 BIB
+"Y045 Richmond, BC PC",Y045,,,,,,,,,,
+"Y046 Terrace, BC DC",Y046," 11,418 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,250ml & 300 ml PET
+"Y046 Terrace, BC DC",Y046," 65,257 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,"Y044 Richmond, BC DC",Y044,,,"Some can, 500ml PET, 1L Aha, some BIB"
+"Y046 Terrace, BC DC",Y046," 86,024 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,"Hotfill can, some monster, some CSD can"
+"Y046 Terrace, BC DC",Y046, 886 ,"Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,500ml PET AHA & 2 small skus
+"Y046 Terrace, BC DC",Y046," 506,257 ","Y045 Richmond, BC PC",Y045,"Y044 Richmond, BC DC",Y044,,,,,"most 355ml can, 222ml can, monster, most PET"
+"Y046 Terrace, BC DC",Y046," 47,270 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,"Juice, PA, Glass"
+"Y046 Terrace, BC DC",Y046," 24,500 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,VW
+"Y046 Terrace, BC DC",Y046," 3,982 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,Variety Packs
+"Y046 Terrace, BC DC",Y046," 11,420 ",External Purchases,Exte,"Y044 Richmond, BC DC",Y044,,,,,Monster import
+"Y046 Terrace, BC DC",Y046," 11,190 ",External Purchases,Exte,"Y037 Coquitlam, BC DC",Y037,"Y044 Richmond, BC DC",Y044,,,Smartwater
+"Y046 Terrace, BC DC",Y046," 2,684 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,,,,,Core Power
+"Y046 Terrace, BC DC",Y046," 3,599 ",External Purchases,Exte,"Y071 TCS Calgary, AB DC",Y071,,,,,Some monster import
+"Y047 Victoria, BC DC",Y047," 30,069 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,250ml & 300 ml PET
+"Y047 Victoria, BC DC",Y047," 213,304 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,"Y044 Richmond, BC DC",Y044,,,"Some can, 500ml PET, 1L Aha, some BIB"
+"Y047 Victoria, BC DC",Y047," 281,697 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,"Hotfill can, some monster, some CSD can"
+"Y047 Victoria, BC DC",Y047," 2,928 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,500ml PET AHA & 2 small skus
+"Y047 Victoria, BC DC",Y047," 1,332,195 ","Y045 Richmond, BC PC",Y045,"Y044 Richmond, BC DC",Y044,,,,,"most 355ml can, 222ml can, monster, most PET"
+"Y047 Victoria, BC DC",Y047," 97,718 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,"Juice, PA, Glass"
+"Y047 Victoria, BC DC",Y047," 63,919 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,VW
+"Y047 Victoria, BC DC",Y047," 25,171 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,"Y044 Richmond, BC DC",Y044,,,Variety Packs
+"Y047 Victoria, BC DC",Y047," 27,808 ",External Purchases,Exte,"Y044 Richmond, BC DC",Y044,,,,,Monster import
+"Y047 Victoria, BC DC",Y047," 27,821 ",External Purchases,Exte,"Y037 Coquitlam, BC DC",Y037,"Y044 Richmond, BC DC",Y044,,,Smartwater
+"Y047 Victoria, BC DC",Y047," 18,077 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,,,,,Core Power
+"Y047 Victoria, BC DC",Y047," 8,663 ",External Purchases,Exte,"Y071 TCS Calgary, AB DC",Y071,,,,,Some monster import
+"Y048 Brandon, MB DC",Y048," 5,436 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,Some 300ml PET
+"Y048 Brandon, MB DC",Y048," 10,437 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,"Some 300ml PET, 250ml PET"
+"Y048 Brandon, MB DC",Y048," 3,826 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,,,,,Some PET
+"Y048 Brandon, MB DC",Y048," 779,677 ","Y002 Calgary, AB DC",Y002,,,,,,,Calgary cans/BIB
+"Y048 Brandon, MB DC",Y048," 87,371 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,"Weston can SKUS - hotfill can, monster"
+"Y048 Brandon, MB DC",Y048," 27,199 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,"Some Weston can SKUS - hotfill can, monster"
+"Y048 Brandon, MB DC",Y048, 764 ,"Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,500ml PET small runners
+"Y048 Brandon, MB DC",Y048," 93,491 ","Y045 Richmond, BC PC",Y045,"Y044 Richmond, BC DC",Y044,"Y071 TCS Calgary, AB DC",Y071,"Y002 Calgary, AB DC",Y002,"Monster, 222ml can"
+"Y048 Brandon, MB DC",Y048," 1,882 ","Y045 Richmond, BC PC",Y045,"Y044 Richmond, BC DC",Y044,"Y071 TCS Calgary, AB DC",Y071,,,1 222ml can sku?
+"Y048 Brandon, MB DC",Y048," 34,887 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"Juice, PA, Glass"
+"Y048 Brandon, MB DC",Y048," 11,322 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,small run PA SkU's
+"Y048 Brandon, MB DC",Y048," 17,801 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y048 Brandon, MB DC",Y048," 1,354 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,small run VW skus
+"Y048 Brandon, MB DC",Y048, 252 ,Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,small run vP
+"Y048 Brandon, MB DC",Y048," 6,165 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,VP skus
+"Y048 Brandon, MB DC",Y048, 104 ,External Purchases,Exte,"Y002 Calgary, AB DC",Y002,,,,,BIB juice
+"Y048 Brandon, MB DC",Y048," 26,157 ",External Purchases,Exte,"Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,,,"Smartwater, monster import, anc."
+"Y048 Brandon, MB DC",Y048," 2,144 ",External Purchases,Exte,"Y002 Calgary, AB DC",Y002,Y053 NFI Toronto Aux WH,Y053,,,CorePower
+"Y049 Winnipeg, MB DC",Y049," 89,724 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,300ml/250ml PET
+"Y049 Winnipeg, MB DC",Y049," 4,728,713 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,,,,,Core cans & PET
+"Y049 Winnipeg, MB DC",Y049," 201,527 ","Y002 Calgary, AB DC",Y002,,,,,,,BIB
+"Y049 Winnipeg, MB DC",Y049," 1,112,555 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,"Weston can SKUS - hotfill can, monster"
+"Y049 Winnipeg, MB DC",Y049," 5,044 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,500ml PET small runners
+"Y049 Winnipeg, MB DC",Y049," 105,162 ","Y045 Richmond, BC PC",Y045,"Y044 Richmond, BC DC",Y044,"Y071 TCS Calgary, AB DC",Y071,,,Some small run can & PET
+"Y049 Winnipeg, MB DC",Y049," 271,663 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"Juice, PA, Glass"
+"Y049 Winnipeg, MB DC",Y049," 1,883 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,small run PA SkU's
+"Y049 Winnipeg, MB DC",Y049," 105,707 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y049 Winnipeg, MB DC",Y049," 89,281 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,VP skus
+"Y049 Winnipeg, MB DC",Y049," 4,270 ",External Purchases,Exte,"Y002 Calgary, AB DC",Y002,,,,,BIB juice
+"Y049 Winnipeg, MB DC",Y049," 129,180 ",External Purchases,Exte,"Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,,,"Smartwater, monster import, anc."
+"Y049 Winnipeg, MB DC",Y049," 13,749 ",External Purchases,Exte,"Y002 Calgary, AB DC",Y002,Y053 NFI Toronto Aux WH,Y053,,,CorePower
+"Y050 Lloydminster, SK CD",Y050,,,,,,,,,,
+"Y051 Regina, SK DC",Y051," 34,725 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,300ml PET
+"Y051 Regina, SK DC",Y051," 4,509 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,250ml PET
+"Y051 Regina, SK DC",Y051," 1,919,773 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,,,,,Calgary cans/PET
+"Y051 Regina, SK DC",Y051," 20,690 ","Y002 Calgary, AB DC",Y002,,,,,,,BIB
+"Y051 Regina, SK DC",Y051," 306,693 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,"Weston can SKUS - hotfill can, monster"
+"Y051 Regina, SK DC",Y051," 2,837 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,,,,,500ml PET small runners
+"Y051 Regina, SK DC",Y051," 255,090 ","Y045 Richmond, BC PC",Y045,"Y044 Richmond, BC DC",Y044,"Y071 TCS Calgary, AB DC",Y071,,,"Monster, 222ml can"
+"Y051 Regina, SK DC",Y051," 112,167 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"Juice, PA, Glass"
+"Y051 Regina, SK DC",Y051," 55,745 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y051 Regina, SK DC",Y051," 27,011 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,Variety Packs
+"Y051 Regina, SK DC",Y051," 11,563 ",External Purchases,Exte,"Y002 Calgary, AB DC",Y002,Y053 NFI Toronto Aux WH,Y053,,,"non KO Bib, corepower"
+"Y051 Regina, SK DC",Y051," 83,855 ",External Purchases,Exte,"Y071 TCS Calgary, AB DC",Y071,,,,,"Smartwater, Monster Imports"
+"Y052 Saskatoon, SK DC",Y052," 33,295 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,300ml PET
+"Y052 Saskatoon, SK DC",Y052," 4,659 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,"Y002 Calgary, AB DC",Y002,,,250ml PET
+"Y052 Saskatoon, SK DC",Y052," 1,689,164 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,,,,,Calgary cans/PET
+"Y052 Saskatoon, SK DC",Y052," 12,171 ","Y002 Calgary, AB DC",Y002,,,,,,,BIB
+"Y052 Saskatoon, SK DC",Y052," 281,651 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,"Weston can SKUS - hotfill can, monster"
+"Y052 Saskatoon, SK DC",Y052," 2,575 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,,,,,500ml PET small runners
+"Y052 Saskatoon, SK DC",Y052," 247,700 ","Y045 Richmond, BC PC",Y045,"Y044 Richmond, BC DC",Y044,"Y071 TCS Calgary, AB DC",Y071,,,"Monster, 222ml can"
+"Y052 Saskatoon, SK DC",Y052," 108,531 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"Juice, PA, Glass"
+"Y052 Saskatoon, SK DC",Y052," 53,782 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y052 Saskatoon, SK DC",Y052," 43,827 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,Variety Packs
+"Y052 Saskatoon, SK DC",Y052," 8,969 ",External Purchases,Exte,"Y002 Calgary, AB DC",Y002,Y053 NFI Toronto Aux WH,Y053,,,"non KO Bib, corepower"
+"Y052 Saskatoon, SK DC",Y052," 73,570 ",External Purchases,Exte,"Y071 TCS Calgary, AB DC",Y071,,,,,"Smartwater, Monster Imports"
+"Y054 Thunder Bay, ON DC",Y054," 483,746 ","Y001 Brampton, ON DC",Y001,,,,,,,"Core can, PET, 300ml/250ml PET, BIB"
+"Y054 Thunder Bay, ON DC",Y054," 49,607 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,"Y001 Brampton, ON DC",Y001,"1L Aha, 355ml can fresca and diet aw"
+"Y054 Thunder Bay, ON DC",Y054," 421,245 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,"Y001 Brampton, ON DC",Y001,,,"Weston can SKUS - hotfill can, monster"
+"Y054 Thunder Bay, ON DC",Y054," 3,029 ","Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,"Y001 Brampton, ON DC",Y001,,,500ml PET small runners
+"Y054 Thunder Bay, ON DC",Y054," 52,206 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,"Y001 Brampton, ON DC",Y001,,,"Juice, PA, Glass"
+"Y054 Thunder Bay, ON DC",Y054," 28,730 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,"Y001 Brampton, ON DC",Y001,,,VW
+"Y054 Thunder Bay, ON DC",Y054," 10,922 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,"Y001 Brampton, ON DC",Y001,,,VP skus
+"Y054 Thunder Bay, ON DC",Y054," 4,735 ",External Purchases,Exte,"Y001 Brampton, ON DC",Y001,,,,,1 smart water sku & anc
+"Y054 Thunder Bay, ON DC",Y054," 20,426 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,"Y001 Brampton, ON DC",Y001,,,"Smartwater, monster import, Core Power"
+"Y055 St. Johns, NL DC",Y055," 211,914 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,"32 pack can, some other can, PET"
+"Y055 St. Johns, NL DC",Y055," 4,206 ","Y001 Brampton, ON DC",Y001,"Y027 Fairway, QC AUX WH",Y027,"Y029 L'Assomption, QC DC",Y029,,,some BIB
+"Y055 St. Johns, NL DC",Y055," 11,715 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,"Y027 Fairway, QC AUX WH",Y027,,,some 500ml PET skus
+"Y055 St. Johns, NL DC",Y055," 1,386 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,1L AHA
+"Y055 St. Johns, NL DC",Y055," 552,424 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,"Unique Weston can SKUS - hotfill can, monster, 222ml"
+"Y055 St. Johns, NL DC",Y055," 6,284 ","Y028 Lachine, QC PC",Y028,,,,,,,"1 sku, CD cran"
+"Y055 St. Johns, NL DC",Y055," 2,030,748 ","Y028 Lachine, QC PC",Y028,"Y027 Fairway, QC AUX WH",Y027,,,,,Core can & PET
+"Y055 St. Johns, NL DC",Y055," 14,462 ","Y028 Lachine, QC PC",Y028,"Y027 Fairway, QC AUX WH",Y027,"Y029 L'Assomption, QC DC",Y029,,,BIB
+"Y055 St. Johns, NL DC",Y055," 144,119 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"HF Juice, PA"
+"Y055 St. Johns, NL DC",Y055," 36,479 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y055 St. Johns, NL DC",Y055," 52,554 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,Variety Packs
+"Y055 St. Johns, NL DC",Y055, 943 ,External Purchases,Exte,"Y029 L'Assomption, QC DC",Y029,"Y027 Fairway, QC AUX WH",Y027,"Y001 Brampton, ON DC",Y001,Anc
+"Y055 St. Johns, NL DC",Y055," 46,841 ",External Purchases,Exte,Y057 Delta Beverages,Y057,,,,,"Smartwater, Monster Imports, CorePower"
+"Y071 TCS Calgary, AB DC",Y071," 27,225 ","Y001 Brampton, ON DC",Y001,Y053 NFI Toronto Aux WH,Y053,,,,,"300ml, 250ml PET"
+"Y071 TCS Calgary, AB DC",Y071," 2,900,455 ","Y002 Calgary, AB DC",Y002,,,,,,,"Core can, PET"
+"Y071 TCS Calgary, AB DC",Y071," 383,792 ","Y011 Weston, ON DC",Y011,Y053 NFI Toronto Aux WH,Y053,,,,,"Unique Weston can SKUS - hotfill can, monster,"
+"Y071 TCS Calgary, AB DC",Y071, 584 ,"Y028 Lachine, QC PC",Y028,Y053 NFI Toronto Aux WH,Y053,,,,,small 500ml PET
+"Y071 TCS Calgary, AB DC",Y071," 467,067 ","Y045 Richmond, BC PC",Y045,"Y044 Richmond, BC DC",Y044,,,,,"monster, 222ml, some other can"
+"Y071 TCS Calgary, AB DC",Y071," 240,731 ",Y057 Delta Beverages ,Y057,Y053 NFI Toronto Aux WH,Y053,,,,,"HF Juice, PA"
+"Y071 TCS Calgary, AB DC",Y071," 94,873 ",Y059 Joriki ,Y059,Y053 NFI Toronto Aux WH,Y053,,,,,VW
+"Y071 TCS Calgary, AB DC",Y071," 67,040 ",Y060 Alliance repack,Y060,Y053 NFI Toronto Aux WH,Y053,,,,,Variety Packs
+"Y071 TCS Calgary, AB DC",Y071," 2,137 ",External Purchases,Exte,Y053 NFI Toronto Aux WH,Y053,,,,,CorePower
+"Y071 TCS Calgary, AB DC",Y071," 180,206 ",External Purchases,Exte,,,,,,,"Smartwater, Monster Imports, Anc."
