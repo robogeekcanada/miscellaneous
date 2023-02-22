@@ -1,0 +1,69 @@
+﻿SiteID,Name,Type,Address,City,State,Country,Postal Code,Latitude,Longitude,Custom 1
+23350,P_CC_Cent_ON_Y001_Brampton,Existing Site,15 Westcreek Blvd.,Brampton,ON,Canada,L6T 5T4,43.6844,-79.7027,Brampton
+23351,P_CC_West_AB_Y002_Calgary,Existing Site,3852 23rd Street NE,Calgary,AB,Canada,T2E 6T2,51.0867,-114.0062,Calgary
+23352,P_CO_Cent_ON_Y058_YAYA  Foods,Existing Site,450b Kipling Avenue,Etobicoke,ON,Canada,M8Z 5E1,43.6085,-79.5221,YAYA  Foods
+23353,P_CO_Cent_ON_Y059_Joriki,Existing Site,3431 McNicoll Ave,Scarborough,ON,Canada,M1V 2V3,43.8217,-79.256,Joriki
+23354,P_CO_Cent_ON_Y057_Delta Beverages,Existing Site,21 Marycroft Ave,Woodbridge,ON,Canada,L4L 5Y6,43.7806,-79.5635,Delta Beverages
+23355,P_CO_Cent_ON_XXXX_CottCentral,Existing Site,0,Mississauga,ON,Canada,L4V 1H6,43.6945,-79.6263,CottCentral
+23356,P_CO_West_AB_WWWW_CottWest,Existing Site,0,Calgary,AB,Canada,T2C 2V2,50.98565,-113.9641,CottWest
+23357,P_CO_Cent_ON_Y060_Alliance,Existing Site,201 Speers Road,Oakville,ON,Canada,L6K 2E8,43.4449,-79.6894,Alliance
+23358,P_CO_West_AB_Y061_X-Treme,Existing Site,7910 - 51st Street S.E. ,Calgary,AB,Canada,T2C 4R2,50.9829,-113.9598,X-Treme
+23359,P_CO_West_BC_YC02_LMBCArea,Existing Site,,Richmond,BC,Canada,V6V 2B8,49.17925,-123.0772,
+23360,P_CO_West_BC_YC02_CalgaryArea,Existing Site,,Calgary,AB,Canada,T2C 2V2,50.88565,-113.7641,
+23362,P_PG_Misc_GA_ZZZZ_PurchFGSupply,Existing Site,0,Atlanta,GA,USA,30336,33.7489,-84.5484,PurchFGSupply
+23363,P_PL_Cent_ON_Y011_Weston,Existing Site,24 Fenmar Dr,Toronto(Weston),ON,Canada,M9L 1L8,43.7598,-79.5368,Weston
+23364,P_PL_East_QC_Y028_Lachine,Existing Site,1515. 46e avenue,Lachine,QC,Canada,H8T 2N8,45.4553,-73.7117,Lachine
+23365,P_PL_West_BC_Y045_Richmond,Existing Site,2471 Viking Way,Richmond,BC,Canada,V6V 1N3,49.1962,-123.0746,Richmond
+23366,W_DB_Cent_ON_Y008_Owen Sound,Existing Site,1795 23rd Street East,Owen Sound,ON,Canada,N4K 5N5,44.58608,-80.91494,Owen Sound
+23367,W_DB_Cent_ON_Y009_Sault Ste Marie,Existing Site,987 Great Northern Rd.,Sault Ste Marie,ON,Canada,P6B 0B9,46.5476,-84.327,Sault Ste Marie
+23368,W_XD_Cent_ON_Y012_Windsor,Existing Site,3215 Electricity Dr,Windsor,ON,Canada,N8W 5J1,42.2845,-82.9656,Windsor
+23369,W_XD_East_NB_Y014_Edmundston,Existing Site,500 Blvd de L'Acadie,Edmundston  ,NB,Canada,E3V 3L1,47.3643,-68.3259,Edmundston
+23370,W_DB_East_NB_Y015_Fredericton,Existing Site,225 Allison Blvd,Fredericton  ,NB,Canada,E3C 2S5,45.8905,-66.6074,Fredericton
+23371,W_DB_East_NB_Y017_Saint John,Existing Site,"28 McIlveen Drive, Unit #28",Saint John,NB,Canada,E2J 4Y7,45.2696,-65.9942,Saint John
+23372,W_DB_East_NS_Y018_Coldbrook,Existing Site,7165 Cambrooken Court,Coldbrook,NS,Canada,B4R 1A2,45.0688,-64.5695,Coldbrook
+23373,W_DB_East_NS_Y020_Stellarton,Existing Site,101 MacGregor Avenue,Stellarton  ,NS,Canada,B0K 2A0,45.5603,-62.6658,Stellarton
+23374,W_DB_East_NS_Y022_Truro,Existing Site,310 Prince Place,Truro,NS,Canada,B2N 1C9,45.365,-63.2817,Truro
+23375,W_DB_East_NS_Y023_Yarmouth,Existing Site,"345 Highway #1, Unit #3",Yarmouth ,NS,Canada,B5A 1E7,43.9297,-66.1215,Yarmouth
+23376,W_XD_East_PE_Y025_Charlottetown,Existing Site,2 Aviation Ave,Winsloe,PE,Canada,C1E 1Z2,46.3139,-63.1676,Charlottetown
+23377,W_DB_East_QC_Y032_Trois-Rivieres,Existing Site,8500 boul. Indstriel,Trois-Rivières,QC,Canada,G9A 5E1,46.3552,-72.5381,Trois-Rivieres
+23378,W_DB_West_BC_Y036_Chilliwack,Existing Site,44520 Yale Road,Sardis,BC,Canada,V2R 1A9,49.1447,-121.991,Chilliwack
+23380,W_XD_West_SK_Y050_Lloydminster,Existing Site,4502-35 Avenue,Lloydminster,SK,Canada,S9V 0Y4,53.2803,-110.0043,Lloydminster
+23381,W_DC_Cent_ON_Y004_Barrie,Existing Site,401 Bayview Drive,Barrie ,ON,Canada,L4N 8Y2,44.3404,-79.6776,Barrie
+23382,W_DC_Cent_ON_Y001_BramptonDC,Existing Site,15 Westcreek Blvd.,Brampton,ON,Canada,L6T 5T4,43.6844,-79.7027,BramptonDC
+23383,W_DC_Cent_ON_Y006_Kingston,Existing Site,800 Innovation Dr,Kingston,ON,Canada,K7K 7E7,44.274197,-76.439718,Kingston
+23384,W_DC_Cent_ON_Y010_Sudbury,Existing Site,970 Lorne St.,Sudbury,ON,Canada,P3C 4R9,46.4733,-81.0254,Sudbury
+23385,W_DC_Cent_ON_Y005_Hamilton,Existing Site,1575 Barton St E,Hamilton,ON,Canada,L8H 7K6,43.2429,-79.8086,Hamilton
+23386,W_DC_Cent_ON_Y007_London,Existing Site,950 Green Valley Rd,London,ON,Canada,N6N 1E3,42.9227,-81.1989,London
+23387,W_DC_East_NB_Y016_Moncton,Existing Site,66 Arsenault Court,Moncton  ,NB,Canada,E1E 3X8,46.082374,-64.834188,Moncton
+23389,W_DC_East_NS_Y019_Halifax,Existing Site,20 Lakeside Park Drive,Halifax  ,NS,Canada,B3T 1L8,44.6404,-63.69,Halifax
+23390,W_DC_East_NS_Y021_Sydney,Existing Site,418 Portsway Ave,Edwardsville,NS,Canada,B2A 4T8,46.1523,-60.2269,Sydney
+23391,W_DC_East_ON_Y024_Ottawa,Existing Site,3070 Hawthorne Road,Ottawa,ON,Canada,K1G 6V7,45.3865,-75.6075,Ottawa
+23392,W_DC_East_QC_Y030_Outaouais,Existing Site,885 Blvd La Carriere ,Gatineau,QC,Canada,J8Y 6S6,45.4546,-75.7315,Outaouais
+23393,W_DC_East_QC_Y029_L'Assomption,Existing Site,2750 Boul L'Assomption,Montreal,QC,Canada,H1N 2G9,45.5678,-73.5437,LAssomption
+23394,W_DC_East_QC_Y026_Granby,Existing Site,940 Andre Liné,Granby,QC,Canada,J2J 1E2,45.3866,-72.766,Granby
+23395,W_DC_East_QC_Y031_Quebec City,Existing Site,990 Godin,Quebec,QC,Canada,G1M 2X9,46.825,-71.2806,Quebec City
+23396,W_DC_West_AB_Y002_CalgaryDC,Existing Site,3852 23rd Street NE,Calgary,AB,Canada,T2E 6T2,51.0867,-114.0062,CalgaryDC
+23397,W_DC_West_AB_Y033_Edmonton,Existing Site,9621-27 Avenue,Edmonton,AB,Canada,T6N 1E7,53.456,-113.477,Edmonton
+23398,W_DC_West_BC_Y037_Coquitlam,Existing Site,2450 United Blvd,Coquitlam,BC,Canada,V3R 6G2,49.226,-122.8194,Coquitlam
+23399,W_DC_West_BC_Y047_Victoria,Existing Site,105-765 Vanalman Ave,Victoria,BC,Canada,V8Z 3B8,48.4805,-123.3876,Victoria
+23400,W_DC_West_BC_Y042_Nanaimo,Existing Site,4148 Mostar Road,Nanaimo,BC,Canada,V9T 5V9,49.2104,-124.0344,Nanaimo
+23401,W_DC_West_BC_Y043_Prince George,Existing Site,405 - 2nd Ave,Prince George,BC,Canada,V2L 2Z6,53.9142,-122.7326,Prince George
+23402,W_DC_West_BC_Y046_Terrace,Existing Site,5120 Keith Avenue,Terrace,BC,Canada,V8G 1K9,54.5152,-128.6152,Terrace
+23403,W_DC_West_BC_Y035_Castlegar,Existing Site,1370 Forest Foad,Castlegar,BC,Canada,V1N 3Y5,49.29315,-117.6642,Castlegar
+23404,W_DC_West_BC_Y044_Nelson,Existing Site,7200 Nelson Road,Richmond,BC,Canada,V6W 1G4,49.158,-123.005,Nelson
+23405,W_DC_West_MB_Y049_Winnipeg,Existing Site,1331 Inkster Blvd,Winnipeg,MB,Canada,R2X 1P6,49.9434,-97.1717,Winnipeg
+23406,W_DC_West_MB_Y048_Brandon,Existing Site,1228 Victoria Ave E,Brandon,MB,Canada,R7A 2A8,49.8414,-99.9214,Brandon
+23407,W_DC_West_ON_Y054_Thunder Bay,Existing Site,615 Beaverhall Place,Thunder Bay,ON,Canada,P7E 3N1,48.3774,-89.2997,Thunder Bay
+23408,W_DC_West_SK_Y052_Saskatoon,Existing Site,315 Circle Drive East,Saskatoon,SK,Canada,S7K 0T7,52.1577,-106.6664,Saskatoon
+23409,W_DC_West_SK_Y051_Regina,Existing Site,355 Henderson Drive,Regina,SK,Canada,S4N 6B9,50.4715,-104.5608,Regina
+23411,W_OS_Cent_ON_Y053_Toronto,Existing Site,225 Carrier  Drive,Etobicoke,ON,Canada,M9W 5Y8,43.7481,-79.6204,Toronto
+23412,W_OS_East_QC_Y027_Lachine,Existing Site,4875 Fairway,Lachine,QC,Canada,H8T 1B7,45.4526,-73.712,Lachine
+23413,W_OS_West_AB_Y071_Calgary,Existing Site, 6810 40th Street SE,Calgary,AB,Canada,T2C 2A5,50.9945,-113.9756,CalgaryOS
+23414,W_OS_West_BC_Y062_BC-Stryder,Existing Site,13240 Worster Court,Richmond,BC,Canada,V6V 2B8,49.17925,-123.0772,BC-Stryder
+23415,W_XD_West_AB_Y034_Lethbridge,Existing Site,2920 9th Ave N,Lethbridge,AB,Canada,T1H 5E4,49.7123,-112.7993,Lethbridge
+23417,W_XD_West_BC_Y040_Kamloops,Existing Site,1484 Iron Mask Rd,Kamloops,BC,Canada,V1S 1C7,50.6589,-120.403,Kamloops
+23418,W_XD_West_BC_Y038_Cranbrook,Existing Site,#3 1139 Industrial Road ,Cranbrook,BC,Canada,V1C 5E3,49.5261,-115.7679,Cranbrook
+23440,W_DC_West_BC_Y041_Kelowna,Existing Site,100 - 2255 Norris Rd S,Kelowna,BC,Canada,V1X 8G7,49.9183,-119.3797,Kelowna
+23475,W_PT_East_QC_PORT_PortOfMTL,Existing Site,200 de la Commune St W,Montreal,QC,Canada,H2Y 4B2,45.5034,-73.553,PortOfMTL
+23476,W_PT_East_QC_PORT_PortOfVLY,Existing Site,"360 Boulevard Gérard-Cadieux, Salaberry-de-Valleyfield",,QC,Canada, J6T 6L4,45.224,-74.0863,PortOfVLY
+23477,W_DC_West_BC_Y045_RichmondDC,Existing Site,2471 Viking Way,Richmond,BC,Canada,V6V 1N3,49.1962,-123.0746,RichmondDC
