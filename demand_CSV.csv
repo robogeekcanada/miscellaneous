@@ -1,4 +1,4 @@
-﻿Demand Location,Deman Site, Total Demand ,Production/Source Location,Source Site,First Warehouse,First Stop,Second Warehouse,Second Stop,Third Warehouse,Third Stop,Product Details
+﻿Demand Location,Demand Site, Total Demand ,Production/Source Location,Source Site,First Warehouse,First Stop,Second Warehouse,Second Stop,Third Warehouse,Third Stop,Product Details
 "Y001 Brampton, ON DC",Y001," 23,564,663 ","Y001 Brampton, ON DC",Y001,,,,,,,"Brampton PET, Core Cans, BIB, 300ml, 250ml, Dasani"
 "Y001 Brampton, ON DC",Y001," 734,805 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,355ml Can Fresca and Diet A&W
 "Y001 Brampton, ON DC",Y001," 33,868 ","Y002 Calgary, AB DC",Y002,"Y071 TCS Calgary, AB DC",Y071,Y053 NFI Toronto Aux WH,Y053,,,1L AHA
