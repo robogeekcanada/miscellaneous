@@ -1,4 +1,4 @@
-SiteID,DC_Number,Site_Type,Region,Name,Address,City,State,Country,Postal_Code,Latitude,Longitude
+ï»¿SiteID,DC_Number,Site_Type,Region,Name,Address,City,State,Country,Postal_Code,Latitude,Longitude
 23350,Y001,P_CC,Cent_ON,Brampton,15 Westcreek Blvd.,Brampton,ON,Canada,L6T 5T4,43.6844,-79.7027
 23351,Y002,P_CC,West_AB,Calgary,3852 23rd Street NE,Calgary,AB,Canada,T2E 6T2,51.0867,-114.0062
 23352,Y058,P_CO,Cent_ON,YAYA Foods,450b Kipling Avenue,Etobicoke,ON,Canada,M8Z 5E1,43.6085,-79.5221
@@ -23,7 +23,7 @@ SiteID,DC_Number,Site_Type,Region,Name,Address,City,State,Country,Postal_Code,La
 23374,Y022,W_DB,East_NS,Truro,310 Prince Place,Truro,NS,Canada,B2N 1C9,45.365,-63.2817
 23375,Y023,W_DB,East_NS,Yarmouth,"345 Highway #1, Unit #3",Yarmouth ,NS,Canada,B5A 1E7,43.9297,-66.1215
 23376,Y025,W_XD,East_PE,Charlottetown,2 Aviation Ave,Winsloe,PE,Canada,C1E 1Z2,46.3139,-63.1676
-23377,Y032,W_DB,East_QC,Trois-Rivieres,8500 boul. Indstriel,Trois-Rivières,QC,Canada,G9A 5E1,46.3552,-72.5381
+23377,Y032,W_DB,East_QC,Trois-Rivieres,8500 boul. Indstriel,Trois-RiviÃ¨res,QC,Canada,G9A 5E1,46.3552,-72.5381
 23378,Y036,W_DB,West_BC,Chilliwack,44520 Yale Road,Sardis,BC,Canada,V2R 1A9,49.1447,-121.991
 23379,Y039,W_XD,West_BC,Dawson Creek,2140 Alaska Hwy,Dawson Creek,BC,Canada,V1G 1Y2,55.7597,-120.2236
 23380,Y050,W_XD,West_SK,Lloydminster,4502-35 Avenue,Lloydminster,SK,Canada,S9V 0Y4,53.2803,-110.0043
@@ -40,7 +40,7 @@ SiteID,DC_Number,Site_Type,Region,Name,Address,City,State,Country,Postal_Code,La
 23391,Y024,W_DC,East_ON,Ottawa,3070 Hawthorne Road,Ottawa,ON,Canada,K1G 6V7,45.3865,-75.6075
 23392,Y030,W_DC,East_QC,Outaouais,885 Blvd La Carriere ,Gatineau,QC,Canada,J8Y 6S6,45.4546,-75.7315
 23393,Y029,W_DC,East_QC,L'Assomption,2750 Boul L'Assomption,Montreal,QC,Canada,H1N 2G9,45.5678,-73.5437
-23394,Y026,W_DC,East_QC,Granby,940 Andre Liné,Granby,QC,Canada,J2J 1E2,45.3866,-72.766
+23394,Y026,W_DC,East_QC,Granby,940 Andre LinÃ©,Granby,QC,Canada,J2J 1E2,45.3866,-72.766
 23395,Y031,W_DC,East_QC,Quebec City,990 Godin,Quebec,QC,Canada,G1M 2X9,46.825,-71.2806
 23396,Y002,W_DC,West_AB,CalgaryDC,3852 23rd Street NE,Calgary,AB,Canada,T2E 6T2,51.0867,-114.0062
 23397,Y033,W_DC,West_AB,Edmonton,9621-27 Avenue,Edmonton,AB,Canada,T6N 1E7,53.456,-113.477
@@ -73,7 +73,7 @@ SiteID,DC_Number,Site_Type,Region,Name,Address,City,State,Country,Postal_Code,La
 23424,Y009,W_DC,Cent_ON,Sault Ste Marie,987 Great Northern Rd.,Sault Ste Marie,ON,Canada,P6B 0B9,46.5476,-84.327
 23425,Y012,W_DC,Cent_ON,WindsorDC,3215 Electricity Dr,Windsor,ON,Canada,N8W 5J1,42.2845,-82.9656
 23426,Y025,W_DC,East_PE,CharlottetownDC,2 Aviation Ave,Winsloe,PE,Canada,C1E 1Z2,46.3139,-63.1676
-23427,Y032,W_DC,East_QC,Trois-RivieresD,8500 boul. Indstriel,Trois-Rivières,QC,Canada,G9A 5E1,46.3552,-72.5381
+23427,Y032,W_DC,East_QC,Trois-RivieresD,8500 boul. Indstriel,Trois-RiviÃ¨res,QC,Canada,G9A 5E1,46.3552,-72.5381
 23428,Y036,W_DC,West_BC,ChilliwackDC,44520 Yale Road,Sardis,BC,Canada,V2R 1A9,49.1447,-121.991
 23429,Y039,W_DC,West_BC,Dawson CreekDC,2140 Alaska Hwy,Dawson Creek,BC,Canada,V1G 1Y2,55.7597,-120.2236
 23430,Y050,W_DC,West_SK,LloydminsterDC,4502-35 Avenue,Lloydminster,SK,Canada,S9V 0Y4,53.2803,-110.0043
@@ -100,7 +100,7 @@ SiteID,DC_Number,Site_Type,Region,Name,Address,City,State,Country,Postal_Code,La
 23451,Y022,W_XD,East_NS,TruroXD,310 Prince Place,Truro,NS,Canada,B2N 1C9,45.365,-63.2817
 23452,Y023,W_XD,East_NS,YarmouthXD,"345 Highway #1, Unit #3",Yarmouth ,NS,Canada,B5A 1E7,43.9297,-66.1215
 23453,Y025,W_DB,East_PE,CharlottetownDB,2 Aviation Ave,Winsloe,PE,Canada,C1E 1Z2,46.3139,-63.1676
-23454,Y032,W_XD,East_QC,Trois-RivieresX,8500 boul. Indstriel,Trois-Rivières,QC,Canada,G9A 5E1,46.3552,-72.5381
+23454,Y032,W_XD,East_QC,Trois-RivieresX,8500 boul. Indstriel,Trois-RiviÃ¨res,QC,Canada,G9A 5E1,46.3552,-72.5381
 23455,Y036,W_XD,West_BC,ChilliwackXD,44520 Yale Road,Sardis,BC,Canada,V2R 1A9,49.1447,-121.991
 23456,Y039,W_DB,West_BC,Dawson CreekDB,2140 Alaska Hwy,Dawson Creek,BC,Canada,V1G 1Y2,55.7597,-120.2236
 23457,Y050,W_DB,West_SK,LloydminsterDB,4502-35 Avenue,Lloydminster,SK,Canada,S9V 0Y4,53.2803,-110.0043
@@ -113,7 +113,7 @@ SiteID,DC_Number,Site_Type,Region,Name,Address,City,State,Country,Postal_Code,La
 23464,Y021,W_DB,East_NS,SydneyDB,418 Portsway Ave,Edwardsville,NS,Canada,B2A 4T8,46.1523,-60.2269
 23465,Y024,W_DB,East_ON,OttawaDB,3070 Hawthorne Road,Ottawa,ON,Canada,K1G 6V7,45.3865,-75.6075
 23466,Y030,W_DB,East_QC,OutaouaisDB,885 Blvd La Carriere ,Gatineau,QC,Canada,J8Y 6S6,45.4546,-75.7315
-23467,Y026,W_DB,East_QC,GranbyDB,940 Andre Liné,Granby,QC,Canada,J2J 1E2,45.3866,-72.766
+23467,Y026,W_DB,East_QC,GranbyDB,940 Andre LinÃ©,Granby,QC,Canada,J2J 1E2,45.3866,-72.766
 23468,Y047,W_DB,West_BC,VictoriaDB,105-765 Vanalman Ave,Victoria,BC,Canada,V8Z 3B8,48.4805,-123.3876
 23469,Y042,W_DB,West_BC,NanaimoDB,4148 Mostar Road,Nanaimo,BC,Canada,V9T 5V9,49.2104,-124.0344
 23470,Y043,W_DB,West_BC,Prince GeorgeDB,405 - 2nd Ave,Prince George,BC,Canada,V2L 2Z6,53.9142,-122.7326
