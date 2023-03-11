@@ -1,0 +1,124 @@
+SiteID,DC Number,Site_Type,Region,Name,Address,City,State,Country,Postal_Code,Latitude,Longitude
+23350,Y001,P_CC,Cent_ON,Brampton,15 Westcreek Blvd.,Brampton,ON,Canada,L6T 5T4,43.6844,-79.7027
+23351,Y002,P_CC,West_AB,Calgary,3852 23rd Street NE,Calgary,AB,Canada,T2E 6T2,51.0867,-114.0062
+23352,Y058,P_CO,Cent_ON,YAYA Foods,450b Kipling Avenue,Etobicoke,ON,Canada,M8Z 5E1,43.6085,-79.5221
+23353,Y059,P_CO,Cent_ON,Joriki,3431 McNicoll Ave,Scarborough,ON,Canada,M1V 2V3,43.8217,-79.256
+23354,Y057,P_CO,Cent_ON,Delta Beverages,21 Marycroft Ave,Woodbridge,ON,Canada,L4L 5Y6,43.7806,-79.5635
+23357,Y060,P_CO,Cent_ON,Alliance,201 Speers Road,Oakville,ON,Canada,L6K 2E8,43.4449,-79.6894
+23358,Y061,P_CO,West_AB,X-Treme,7910 - 51st Street S.E. ,Calgary,AB,Canada,T2C 4R2,50.9829,-113.9598
+23359,YC02,P_CO,West_BC,LMBCArea,,Richmond,BC,Canada,V6V 2B8,49.17925,-123.0772
+23360,YC02,P_CO,West_BC,CalgaryArea,,Calgary,AB,Canada,T2C 2V2,50.88565,-113.7641
+23361,Y049,P_CC,West_MB,WinnipegCC,1331 Inkster Blvd,Winnipeg,MB,Canada,R2X 1P6,49.9434,-97.1717
+23363,Y011,P_PL,Cent_ON,Weston,24 Fenmar Dr,Toronto(Weston),ON,Canada,M9L 1L8,43.7598,-79.5368
+23364,Y028,P_PL,East_QC,Lachine,1515. 46e avenue,Lachine,QC,Canada,H8T 2N8,45.4553,-73.7117
+23365,Y045,P_PL,West_BC,Richmond,2471 Viking Way,Richmond,BC,Canada,V6V 1N3,49.1962,-123.0746
+23366,Y008,W_DB,Cent_ON,Owen Sound,1795 23rd Street East,Owen Sound,ON,Canada,N4K 5N5,44.58608,-80.91494
+23367,Y009,W_DB,Cent_ON,Sault Ste Marie,987 Great Northern Rd.,Sault Ste Marie,ON,Canada,P6B 0B9,46.5476,-84.327
+23368,Y012,W_XD,Cent_ON,Windsor,3215 Electricity Dr,Windsor,ON,Canada,N8W 5J1,42.2845,-82.9656
+23369,Y014,W_XD,East_NB,Edmundston,500 Blvd de L'Acadie,Edmundston  ,NB,Canada,E3V 3L1,47.3643,-68.3259
+23370,Y015,W_DB,East_NB,Fredericton,225 Allison Blvd,Fredericton  ,NB,Canada,E3C 2S5,45.8905,-66.6074
+23371,Y017,W_DB,East_NB,Saint John,"28 McIlveen Drive, Unit #28",Saint John,NB,Canada,E2J 4Y7,45.2696,-65.9942
+23372,Y018,W_DB,East_NS,Coldbrook,7165 Cambrooken Court,Coldbrook,NS,Canada,B4R 1A2,45.0688,-64.5695
+23373,Y020,W_DB,East_NS,Stellarton,101 MacGregor Avenue,Stellarton  ,NS,Canada,B0K 2A0,45.5603,-62.6658
+23374,Y022,W_DB,East_NS,Truro,310 Prince Place,Truro,NS,Canada,B2N 1C9,45.365,-63.2817
+23375,Y023,W_DB,East_NS,Yarmouth,"345 Highway #1, Unit #3",Yarmouth ,NS,Canada,B5A 1E7,43.9297,-66.1215
+23376,Y025,W_XD,East_PE,Charlottetown,2 Aviation Ave,Winsloe,PE,Canada,C1E 1Z2,46.3139,-63.1676
+23377,Y032,W_DB,East_QC,Trois-Rivieres,8500 boul. Indstriel,Trois-Rivières,QC,Canada,G9A 5E1,46.3552,-72.5381
+23378,Y036,W_DB,West_BC,Chilliwack,44520 Yale Road,Sardis,BC,Canada,V2R 1A9,49.1447,-121.991
+23379,Y039,W_XD,West_BC,Dawson Creek,2140 Alaska Hwy,Dawson Creek,BC,Canada,V1G 1Y2,55.7597,-120.2236
+23380,Y050,W_XD,West_SK,Lloydminster,4502-35 Avenue,Lloydminster,SK,Canada,S9V 0Y4,53.2803,-110.0043
+23381,Y004,W_DC,Cent_ON,Barrie,401 Bayview Drive,Barrie ,ON,Canada,L4N 8Y2,44.3404,-79.6776
+23382,Y001,W_DC,Cent_ON,BramptonDC,15 Westcreek Blvd.,Brampton,ON,Canada,L6T 5T4,43.6844,-79.7027
+23383,Y006,W_DC,Cent_ON,Kingston,800 Innovation Dr,Kingston,ON,Canada,K7K 7E7,44.274197,-76.439718
+23384,Y010,W_DC,Cent_ON,Sudbury,970 Lorne St.,Sudbury,ON,Canada,P3C 4R9,46.4733,-81.0254
+23385,Y005,W_DC,Cent_ON,Hamilton,1575 Barton St E,Hamilton,ON,Canada,L8H 7K6,43.2429,-79.8086
+23386,Y007,W_DC,Cent_ON,London,950 Green Valley Rd,London,ON,Canada,N6N 1E3,42.9227,-81.1989
+23387,Y016,W_DC,East_NB,Moncton,66 Arsenault Court,Moncton  ,NB,Canada,E1E 3X8,46.082374,-64.834188
+23388,Y013,W_DC,East_NB,Bathurst,2200 Vanier Blvd,Bathurst  ,NB,Canada,E2A 1H2,47.6394,-65.7129
+23389,Y019,W_DC,East_NS,Halifax,20 Lakeside Park Drive,Halifax  ,NS,Canada,B3T 1L8,44.6404,-63.69
+23390,Y021,W_DC,East_NS,Sydney,418 Portsway Ave,Edwardsville,NS,Canada,B2A 4T8,46.1523,-60.2269
+23391,Y024,W_DC,East_ON,Ottawa,3070 Hawthorne Road,Ottawa,ON,Canada,K1G 6V7,45.3865,-75.6075
+23392,Y030,W_DC,East_QC,Outaouais,885 Blvd La Carriere ,Gatineau,QC,Canada,J8Y 6S6,45.4546,-75.7315
+23393,Y029,W_DC,East_QC,L'Assomption,2750 Boul L'Assomption,Montreal,QC,Canada,H1N 2G9,45.5678,-73.5437
+23394,Y026,W_DC,East_QC,Granby,940 Andre Liné,Granby,QC,Canada,J2J 1E2,45.3866,-72.766
+23395,Y031,W_DC,East_QC,Quebec City,990 Godin,Quebec,QC,Canada,G1M 2X9,46.825,-71.2806
+23396,Y002,W_DC,West_AB,CalgaryDC,3852 23rd Street NE,Calgary,AB,Canada,T2E 6T2,51.0867,-114.0062
+23397,Y033,W_DC,West_AB,Edmonton,9621-27 Avenue,Edmonton,AB,Canada,T6N 1E7,53.456,-113.477
+23398,Y037,W_DC,West_BC,Coquitlam,2450 United Blvd,Coquitlam,BC,Canada,V3R 6G2,49.226,-122.8194
+23399,Y047,W_DC,West_BC,Victoria,105-765 Vanalman Ave,Victoria,BC,Canada,V8Z 3B8,48.4805,-123.3876
+23400,Y042,W_DC,West_BC,Nanaimo,4148 Mostar Road,Nanaimo,BC,Canada,V9T 5V9,49.2104,-124.0344
+23401,Y043,W_DC,West_BC,Prince George,405 - 2nd Ave,Prince George,BC,Canada,V2L 2Z6,53.9142,-122.7326
+23402,Y046,W_DC,West_BC,Terrace,5120 Keith Avenue,Terrace,BC,Canada,V8G 1K9,54.5152,-128.6152
+23403,Y035,W_DC,West_BC,Castlegar,1370 Forest Foad,Castlegar,BC,Canada,V1N 3Y5,49.29315,-117.6642
+23404,Y044,W_DC,West_BC,Nelson,7200 Nelson Road,Richmond,BC,Canada,V6W 1G4,49.158,-123.005
+23405,Y049,W_DC,West_MB,Winnipeg,1331 Inkster Blvd,Winnipeg,MB,Canada,R2X 1P6,49.9434,-97.1717
+23406,Y048,W_DC,West_MB,Brandon,1228 Victoria Ave E,Brandon,MB,Canada,R7A 2A8,49.8414,-99.9214
+23407,Y054,W_DC,West_ON,Thunder Bay,615 Beaverhall Place,Thunder Bay,ON,Canada,P7E 3N1,48.3774,-89.2997
+23408,Y052,W_DC,West_SK,Saskatoon,315 Circle Drive East,Saskatoon,SK,Canada,S7K 0T7,52.1577,-106.6664
+23409,Y051,W_DC,West_SK,Regina,355 Henderson Drive,Regina,SK,Canada,S4N 6B9,50.4715,-104.5608
+23410,Y055,W_DC,East_NL,St John's,51 Sagona Avenue,0,NL,Canada,0,47.5734,-52.7185
+23411,Y053,W_OS,Cent_ON,Toronto,225 Carrier  Drive,Etobicoke,ON,Canada,M9W 5Y8,43.7481,-79.6204
+23412,Y027,W_OS,East_QC,Lachine,4875 Fairway,Lachine,QC,Canada,H8T 1B7,45.4526,-73.712
+23413,Y071,W_OS,West_AB,Calgary, 6810 40th Street SE,Calgary,AB,Canada,T2C 2A5,50.9945,-113.9756
+23414,Y062,W_OS,West_BC,BC-Stryder,13240 Worster Court,Richmond,BC,Canada,V6V 2B8,49.17925,-123.0772
+23415,Y034,W_XD,West_AB,Lethbridge,2920 9th Ave N,Lethbridge,AB,Canada,T1H 5E4,49.7123,-112.7993
+23416,Y041,W_XD,West_BC,KelownaXD,100 - 2255 Norris Rd S,Kelowna,BC,Canada,V1X 8G7,49.9183,-119.3797
+23417,Y040,W_XD,West_BC,Kamloops,1484 Iron Mask Rd,Kamloops,BC,Canada,V1S 1C7,50.6589,-120.403
+23418,Y038,W_XD,West_BC,Cranbrook,#3 1139 Industrial Road ,Cranbrook,BC,Canada,V1C 5E3,49.5261,-115.7679
+23419,Y034,W_DB,West_AB,LethbridgeDB,2920 9th Ave N,Lethbridge,AB,Canada,T1H 5E4,49.7123,-112.7993
+23420,Y041,W_DB,West_BC,KelownaDB,100 - 2255 Norris Rd S,Kelowna,BC,Canada,V1X 8G7,49.9183,-119.3797
+23421,Y040,W_DB,West_BC,KamloopsDB,1484 Iron Mask Rd,Kamloops,BC,Canada,V1S 1C7,50.6589,-120.403
+23422,Y038,W_DB,West_BC,CranbrookDB,#3 1139 Industrial Road ,Cranbrook,BC,Canada,V1C 5E3,49.5261,-115.7679
+23423,Y008,W_DC,Cent_ON,Owen SoundDC,1795 23rd Street East,Owen Sound,ON,Canada,N4K 5P5,44.58608,-80.91494
+23424,Y009,W_DC,Cent_ON,Sault Ste Marie,987 Great Northern Rd.,Sault Ste Marie,ON,Canada,P6B 0B9,46.5476,-84.327
+23425,Y012,W_DC,Cent_ON,WindsorDC,3215 Electricity Dr,Windsor,ON,Canada,N8W 5J1,42.2845,-82.9656
+23426,Y025,W_DC,East_PE,CharlottetownDC,2 Aviation Ave,Winsloe,PE,Canada,C1E 1Z2,46.3139,-63.1676
+23427,Y032,W_DC,East_QC,Trois-RivieresD,8500 boul. Indstriel,Trois-Rivières,QC,Canada,G9A 5E1,46.3552,-72.5381
+23428,Y036,W_DC,West_BC,ChilliwackDC,44520 Yale Road,Sardis,BC,Canada,V2R 1A9,49.1447,-121.991
+23429,Y039,W_DC,West_BC,Dawson CreekDC,2140 Alaska Hwy,Dawson Creek,BC,Canada,V1G 1Y2,55.7597,-120.2236
+23430,Y050,W_DC,West_SK,LloydminsterDC,4502-35 Avenue,Lloydminster,SK,Canada,S9V 0Y4,53.2803,-110.0043
+23431,Y004,W_XD,Cent_ON,BarrieXD,401 Bayview Drive,Barrie ,ON,Canada,L4N 8Y2,44.3404,-79.6776
+23432,Y013,W_XD,East_NB,BathurstXD,2200 Vanier Blvd,Bathurst  ,NB,Canada,E2A 1H2,47.6394,-65.7129
+23433,Y021,W_XD,East_NS,SydneyXD,418 Portsway Ave,Edwardsville,NS,Canada,B2A 4T8,46.1523,-60.2269
+23434,Y043,W_XD,West_BC,Prince GeorgeXD,405 - 2nd Ave,Prince George,BC,Canada,V2L 2Z6,53.9142,-122.7326
+23435,Y046,W_XD,West_BC,TerraceXD,5120 Keith Avenue,Terrace,BC,Canada,V8G 1K9,54.5152,-128.6152
+23436,Y035,W_XD,West_BC,CastlegarXD,1370 Forest Foad,Castlegar,BC,Canada,V1N 3Y5,49.29315,-117.6642
+23437,Y048,W_XD,West_MB,BrandonXD,1228 Victoria Ave E,Brandon,MB,Canada,R7A 2A8,49.8414,-99.9214
+23438,Y054,W_XD,West_ON,Thunder BayXD,615 Beaverhall Place,Thunder Bay,ON,Canada,P7E 3N1,48.3774,-89.2997
+23439,Y034,W_DC,West_AB,LethbridgeDC,2920 9th Ave N,Lethbridge,AB,Canada,T1H 5E4,49.7123,-112.7993
+23440,Y041,W_DC,West_BC,Kelowna,100 - 2255 Norris Rd S,Kelowna,BC,Canada,V1X 8G7,49.9183,-119.3797
+23441,Y040,W_DC,West_BC,KamloopsDC,1484 Iron Mask Rd,Kamloops,BC,Canada,V1S 1C7,50.6589,-120.403
+23442,Y038,W_DC,West_BC,CranbrookDC,#3 1139 Industrial Road ,Cranbrook,BC,Canada,V1C 5E3,49.5261,-115.7679
+23443,Y008,W_XD,Cent_ON,Owen SoundXD,1795 23rd Street East,Owen Sound,ON,Canada,N4K 5P5,44.58608,-80.91494
+23444,Y009,W_XD,Cent_ON,Sault Ste Marie,987 Great Northern Rd.,Sault Ste Marie,ON,Canada,P6B 0B9,46.5476,-84.327
+23445,Y012,W_DB,Cent_ON,WindsorDB,3215 Electricity Dr,Windsor,ON,Canada,N8W 5J1,42.2845,-82.9656
+23446,Y014,W_DB,East_NB,EdmundstonDB,500 Blvd de L'Acadie,Edmundston  ,NB,Canada,E3V 3L1,47.3643,-68.3259
+23447,Y015,W_XD,East_NB,FrederictonXD,225 Allison Blvd,Fredericton  ,NB,Canada,E3C 2S5,45.8905,-66.6074
+23448,Y017,W_XD,East_NB,Saint JohnXD,"28 McIlveen Drive, Unit #28",Saint John,NB,Canada,E2J 4Y7,45.2696,-65.9942
+23449,Y018,W_XD,East_NS,ColdbrookXD,7165 Cambrooken Court,Coldbrook,NS,Canada,B4R 1A2,45.0688,-64.5695
+23450,Y020,W_XD,East_NS,StellartonXD,101 MacGregor Avenue,Stellarton  ,NS,Canada,B0K 2A0,45.5603,-62.6658
+23451,Y022,W_XD,East_NS,TruroXD,310 Prince Place,Truro,NS,Canada,B2N 1C9,45.365,-63.2817
+23452,Y023,W_XD,East_NS,YarmouthXD,"345 Highway #1, Unit #3",Yarmouth ,NS,Canada,B5A 1E7,43.9297,-66.1215
+23453,Y025,W_DB,East_PE,CharlottetownDB,2 Aviation Ave,Winsloe,PE,Canada,C1E 1Z2,46.3139,-63.1676
+23454,Y032,W_XD,East_QC,Trois-RivieresX,8500 boul. Indstriel,Trois-Rivières,QC,Canada,G9A 5E1,46.3552,-72.5381
+23455,Y036,W_XD,West_BC,ChilliwackXD,44520 Yale Road,Sardis,BC,Canada,V2R 1A9,49.1447,-121.991
+23456,Y039,W_DB,West_BC,Dawson CreekDB,2140 Alaska Hwy,Dawson Creek,BC,Canada,V1G 1Y2,55.7597,-120.2236
+23457,Y050,W_DB,West_SK,LloydminsterDB,4502-35 Avenue,Lloydminster,SK,Canada,S9V 0Y4,53.2803,-110.0043
+23458,Y004,W_DB,Cent_ON,BarrieDB,401 Bayview Drive,Barrie ,ON,Canada,L4N 8Y2,44.3404,-79.6776
+23459,Y006,W_DB,Cent_ON,KingstonDB,800 Innovation Dr,Kingston,ON,Canada,K7K 7E7,44.274197,-76.439718
+23460,Y010,W_DB,Cent_ON,SudburyDB,970 Lorne St.,Sudbury,ON,Canada,P3C 4R9,46.4733,-81.0254
+23461,Y005,W_DB,Cent_ON,HamiltonDB,1575 Barton St E,Hamilton,ON,Canada,L8H 7K6,43.2429,-79.8086
+23462,Y007,W_DB,Cent_ON,LondonDB,950 Green Valley Rd,London,ON,Canada,N6N 1E3,42.9227,-81.1989
+23463,Y013,W_DB,East_NB,BathurstDB,2200 Vanier Blvd,Bathurst  ,NB,Canada,E2A 1H2,47.6394,-65.7129
+23464,Y021,W_DB,East_NS,SydneyDB,418 Portsway Ave,Edwardsville,NS,Canada,B2A 4T8,46.1523,-60.2269
+23465,Y024,W_DB,East_ON,OttawaDB,3070 Hawthorne Road,Ottawa,ON,Canada,K1G 6V7,45.3865,-75.6075
+23466,Y030,W_DB,East_QC,OutaouaisDB,885 Blvd La Carriere ,Gatineau,QC,Canada,J8Y 6S6,45.4546,-75.7315
+23467,Y026,W_DB,East_QC,GranbyDB,940 Andre Liné,Granby,QC,Canada,J2J 1E2,45.3866,-72.766
+23468,Y047,W_DB,West_BC,VictoriaDB,105-765 Vanalman Ave,Victoria,BC,Canada,V8Z 3B8,48.4805,-123.3876
+23469,Y042,W_DB,West_BC,NanaimoDB,4148 Mostar Road,Nanaimo,BC,Canada,V9T 5V9,49.2104,-124.0344
+23470,Y043,W_DB,West_BC,Prince GeorgeDB,405 - 2nd Ave,Prince George,BC,Canada,V2L 2Z6,53.9142,-122.7326
+23471,Y046,W_DB,West_BC,TerraceDB,5120 Keith Avenue,Terrace,BC,Canada,V8G 1K9,54.5152,-128.6152
+23472,Y035,W_DB,West_BC,CastlegarDB,1370 Forest Foad,Castlegar,BC,Canada,V1N 3Y5,49.29315,-117.6642
+23473,Y048,W_DB,West_MB,BrandonDB,1228 Victoria Ave E,Brandon,MB,Canada,R7A 2A8,49.8414,-99.9214
+23474,Y054,W_DB,West_ON,Thunder BayDB,615 Beaverhall Place,Thunder Bay,ON,Canada,P7E 3N1,48.3774,-89.2997
+23477,Y045,W_DC,West_BC,RichmondDC,2471 Viking Way,Richmond,BC,Canada,V6V 1N3,49.1962,-123.0746
