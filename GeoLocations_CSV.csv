@@ -1,4 +1,4 @@
-SiteID,DC Number,Site_Type,Region,Name,Address,City,State,Country,Postal_Code,Latitude,Longitude
+SiteID,DC_Number,Site_Type,Region,Name,Address,City,State,Country,Postal_Code,Latitude,Longitude
 23350,Y001,P_CC,Cent_ON,Brampton,15 Westcreek Blvd.,Brampton,ON,Canada,L6T 5T4,43.6844,-79.7027
 23351,Y002,P_CC,West_AB,Calgary,3852 23rd Street NE,Calgary,AB,Canada,T2E 6T2,51.0867,-114.0062
 23352,Y058,P_CO,Cent_ON,YAYA Foods,450b Kipling Avenue,Etobicoke,ON,Canada,M8Z 5E1,43.6085,-79.5221
