@@ -24,7 +24,7 @@ def df_to_dict(df, Skus):
 
   return Demand
 
-def calculate_total_demand(Demand):
+def calculate_total_demand(Demand, Skus, Periods):
   
   total_demand = 0
 
