@@ -1,6 +1,8 @@
 import pandas
 import copy
 
+percent = lambda x : x/100
+
 def format_number(num):
   string = '{:,.2f}'.format(num)
 
