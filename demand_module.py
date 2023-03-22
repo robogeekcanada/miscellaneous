@@ -48,3 +48,18 @@ def calculate_future_demand(Demand, Skus, Periods, compound_growth, period_year=
       Demand_future[i][j] = future_demand
 
   return Demand_future
+
+
+def calculate_future_demand2(Demand, Skus, Periods, growth, period_year=0):
+
+  future_demand = 0
+  Demand_future = copy.deepcopy(Demand)
+
+  for i in Skus:
+    sku_demand = Demand_future[i]
+
+    for j in Periods:
+      future_demand = sku_demand[j]*(1+percent(growth[i][j]))**period_year
+      Demand_future[i][j] = future_demand
+
+  return Demand_future
