@@ -65,3 +65,28 @@ def calculate_future_demand2(Demand, Skus, Periods, growth, period_year=0):
       Demand_future[i][j] = future_demand
 
   return Demand_future
+
+
+def calculate_total_production(Shifts, hours_shift, Rates):
+
+  output = 0
+  counter = 0
+
+  total_shifts = 0
+  rate_counter = 0
+
+  for s in Shifts.values():
+
+    output += s.varValue * list(Rates.values())[rate_counter]*hours_shift
+    #print(list(Rates.values())[rate_counter], s.varValue, counter)
+
+    total_shifts += s.varValue
+    if (counter == 11):
+      rate_counter +=1
+      counter = -1
+    
+    counter +=1
+
+  return output
+
+
