@@ -90,3 +90,59 @@ def calculate_total_production(Shifts, hours_shift, Rates):
   return output
 
 
+def find_output_list(Shifts, Rates, Skus, hours_shift):
+  
+  output = 0
+  counter = 0
+
+  total_shifts = 0
+  rate_counter = 0
+
+  production_output = []
+
+  for s in Shifts.values():
+
+    output += s.varValue * list(Rates.values())[rate_counter]*hours_shift
+    #print(list(Rates.values())[rate_counter], s.varValue, counter)
+
+    production_output.append((Skus[rate_counter], counter+1, s.varValue * list(Rates.values())[rate_counter]*hours_shift))
+
+    total_shifts += s.varValue
+    if (counter == 11):
+      rate_counter +=1
+      counter = -1
+    
+    counter +=1
+
+  return production_output
+
+def convert_output_list_to_dict(output_list, Skus):
+  
+  counter = 0
+  sku_counter = 0
+  
+  temp_list = []
+  temp_dict ={}
+  outputDictionary ={}
+
+  for item in output_list:
+
+    if counter == 11:
+
+      temp_list.append((item[1], item[2]))
+      counter = 0
+      temp_dict = dict(temp_list)
+      #print(Skus[sku_counter], temp_dict)
+
+      output_vector = {Skus[sku_counter]: copy.deepcopy(temp_dict)} 
+      outputDictionary = dict(**outputDictionary, **output_vector)
+      
+      sku_counter +=1
+      temp_list.clear()
+      temp_dict.clear()
+    else:
+      
+      temp_list.append((item[1], item[2]))
+      counter += 1
+
+  return outputDictionary 
