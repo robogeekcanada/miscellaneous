@@ -145,4 +145,28 @@ def convert_output_list_to_dict(output_list, Skus):
       temp_list.append((item[1], item[2]))
       counter += 1
 
-  return outputDictionary 
+  return outputDictionary
+
+
+def find_diff(outputDictionary, Demand, Skus, Periods): 
+ 
+  temp_dict = {}
+  temp_list = []
+  diffDictionary = {}
+
+  for s in Skus:
+    #print(Demand[s])
+    #print(outputDictionary[s],'\n')
+
+    for j in Periods:
+      diff = int(outputDictionary[s][j] - Demand[s][j])
+      temp_list.append((j,diff))
+
+    temp_dict = dict(temp_list)
+    
+    output_vector = {s:copy.deepcopy(temp_dict)}
+    diffDictionary = dict(**diffDictionary, **output_vector)
+
+  return diffDictionary
+
+
