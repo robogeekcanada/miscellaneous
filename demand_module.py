@@ -35,7 +35,7 @@ def calculate_total_demand(Demand, Skus, Periods):
 
   return format_number(total_demand)
 
-def calculate_future_demand(Demand, Skus, compound_growth, period_year=0):
+def calculate_future_demand(Demand, Skus, Periods, compound_growth, period_year=0):
 
   future_demand = 0
   Demand_future = copy.deepcopy(Demand)
