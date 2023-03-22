@@ -35,7 +35,7 @@ def calculate_total_demand(Demand, Skus, Periods):
       for j in Periods:
         total_demand += sku_demand[j]
 
-  return format_number(total_demand)
+  return total_demand
 
 def calculate_future_demand(Demand, Skus, Periods, compound_growth, period_year=0):
 
